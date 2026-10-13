@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Category,Merchant,Purchase_Amount
+TXN-10000,2025-10-01 02:12:00,Dining,Local Cafe,24.58
+TXN-10001,2025-10-01 07:54:00,Retail,Clothing Outlet,262.56
+TXN-10002,2025-10-01 18:44:00,Utilities,Water Utility,77.99
+TXN-10003,2025-10-01 20:53:00,Transportation,Ride Share,39.06
+TXN-10004,2025-10-01 21:19:00,Utilities,Phone Carrier,52.44
+TXN-10005,2025-10-01 21:54:00,Groceries,Target Grocery,93.93
+TXN-10006,2025-10-02 00:47:00,Subscription,Software License,10.83
+TXN-10007,2025-10-02 05:53:00,Groceries,Costco,150.24
+TXN-10008,2025-10-02 21:47:00,Dining,Sushi Bar,63.27
+TXN-10009,2025-10-03 08:59:00,Transportation,Gas Station,65.14
+TXN-10010,2025-10-03 14:22:00,Groceries,Trader Joe's,61.76
+TXN-10011,2025-10-03 21:18:00,Dining,Chipotle,64.09
+TXN-10012,2025-10-04 02:48:00,Retail,Clothing Outlet,172.04
+TXN-10013,2025-10-04 10:29:00,Transportation,Public Transit Pass,36.17
+TXN-10014,2025-10-04 11:19:00,Subscription,Cloud Storage,35.0
+TXN-10015,2025-10-04 12:33:00,Dining,Starbucks,8.83
+TXN-10016,2025-10-04 13:02:00,Subscription,Cloud Storage,15.71
+TXN-10017,2025-10-04 21:24:00,Dining,Chipotle,57.73
+TXN-10018,2025-10-05 04:53:00,Retail,Bookstore,88.37
+TXN-10019,2025-10-05 06:03:00,Entertainment,Concert Venue,77.79
+TXN-10020,2025-10-05 11:26:00,Retail,IKEA,127.83
+TXN-10021,2025-10-05 17:27:00,Transportation,Public Transit Pass,69.84
+TXN-10022,2025-10-06 01:19:00,Groceries,Target Grocery,172.15
+TXN-10023,2025-10-06 02:59:00,Retail,IKEA,267.4
+TXN-10024,2025-10-07 04:42:00,Retail,IKEA,95.77
+TXN-10025,2025-10-07 05:14:00,Groceries,Target Grocery,47.04
+TXN-10026,2025-10-07 09:06:00,Transportation,Public Transit Pass,43.21
+TXN-10027,2025-10-07 10:32:00,Dining,Pizzeria,8.49
+TXN-10028,2025-10-08 03:39:00,Subscription,Gym Membership,11.02
+TXN-10029,2025-10-08 04:31:00,Retail,Best Buy,174.92
+TXN-10030,2025-10-08 17:20:00,Subscription,Streaming Service,30.81
+TXN-10031,2025-10-09 02:19:00,Groceries,Trader Joe's,179.11
+TXN-10032,2025-10-09 05:08:00,Utilities,Phone Carrier,84.31
+TXN-10033,2025-10-09 07:01:00,Utilities,Phone Carrier,93.88
+TXN-10034,2025-10-09 09:57:00,Transportation,Parking Garage,17.95
+TXN-10035,2025-10-09 14:09:00,Dining,Sushi Bar,69.48
+TXN-10036,2025-10-09 14:39:00,Dining,Starbucks,60.11
+TXN-10037,2025-10-10 14:16:00,Retail,Clothing Outlet,250.25
+TXN-10038,2025-10-10 20:45:00,Dining,Sushi Bar,68.49
+TXN-10039,2025-10-10 23:29:00,Subscription,Cloud Storage,30.99
+TXN-10040,2025-10-11 09:01:00,Subscription,Software License,28.04
+TXN-10041,2025-10-11 12:24:00,Transportation,Parking Garage,33.13
+TXN-10042,2025-10-11 12:33:00,Utilities,Electric & Gas Co,150.17
+TXN-10043,2025-10-12 06:01:00,Utilities,Phone Carrier,127.23
+TXN-10044,2025-10-12 09:31:00,Groceries,Costco,89.51
+TXN-10045,2025-10-12 14:48:00,Groceries,Costco,169.59
+TXN-10046,2025-10-12 16:15:00,Groceries,Target Grocery,177.37
+TXN-10047,2025-10-12 22:11:00,Groceries,Costco,146.42
+TXN-10048,2025-10-13 06:56:00,Subscription,Cloud Storage,40.26
+TXN-10049,2025-10-14 08:14:00,Retail,Bookstore,210.56
+TXN-10050,2025-10-14 13:01:00,Utilities,Internet Provider,78.23
+TXN-10051,2025-10-14 14:30:00,Retail,IKEA,36.55
+TXN-10052,2025-10-15 09:59:00,Travel,Train Ticket,633.51
+TXN-10053,2025-10-15 14:28:00,Retail,IKEA,224.06
+TXN-10054,2025-10-15 22:36:00,Subscription,Software License,11.87
+TXN-10055,2025-10-16 23:15:00,Utilities,Internet Provider,207.77
+TXN-10056,2025-10-17 00:24:00,Dining,Starbucks,14.11
+TXN-10057,2025-10-17 07:30:00,Groceries,Target Grocery,62.17
+TXN-10058,2025-10-17 10:58:00,Dining,Pizzeria,53.05
+TXN-10059,2025-10-17 11:27:00,Transportation,Parking Garage,21.89
+TXN-10060,2025-10-18 20:12:00,Retail,IKEA,35.52
+TXN-10061,2025-10-19 17:00:00,Groceries,Whole Foods,69.64
+TXN-10062,2025-10-20 03:45:00,Dining,Sushi Bar,59.32
+TXN-10063,2025-10-20 04:36:00,Retail,Bookstore,135.83
+TXN-10064,2025-10-20 10:15:00,Groceries,Trader Joe's,122.74
+TXN-10065,2025-10-20 16:11:00,Dining,Local Cafe,46.83
+TXN-10066,2025-10-21 12:33:00,Transportation,Public Transit Pass,11.56
+TXN-10067,2025-10-21 14:15:00,Dining,Chipotle,74.23
+TXN-10068,2025-10-21 14:32:00,Groceries,Trader Joe's,21.84
+TXN-10069,2025-10-21 17:04:00,Utilities,Internet Provider,214.53
+TXN-10070,2025-10-21 18:37:00,Transportation,Ride Share,48.49
+TXN-10071,2025-10-21 22:42:00,Utilities,Electric & Gas Co,213.74
+TXN-10072,2025-10-22 13:29:00,Groceries,Safeway,33.93
+TXN-10073,2025-10-23 06:43:00,Dining,Local Cafe,40.86
+TXN-10074,2025-10-23 09:09:00,Dining,Pizzeria,19.36
+TXN-10075,2025-10-23 14:25:00,Utilities,Electric & Gas Co,58.67
+TXN-10076,2025-10-23 14:32:00,Retail,IKEA,192.91
+TXN-10077,2025-10-24 19:36:00,Groceries,Whole Foods,49.28
+TXN-10078,2025-10-24 21:34:00,Transportation,Parking Garage,51.14
+TXN-10079,2025-10-25 03:09:00,Groceries,Trader Joe's,33.54
+TXN-10080,2025-10-25 04:10:00,Dining,Chipotle,30.24
+TXN-10081,2025-10-25 12:50:00,Groceries,Costco,143.97
+TXN-10082,2025-10-25 12:52:00,Dining,Local Cafe,37.28
+TXN-10083,2025-10-25 14:03:00,Utilities,Phone Carrier,156.72
+TXN-10084,2025-10-26 02:49:00,Utilities,Electric & Gas Co,160.07
+TXN-10085,2025-10-26 07:46:00,Groceries,Target Grocery,154.22
+TXN-10086,2025-10-26 14:31:00,Subscription,Cloud Storage,22.99
+TXN-10087,2025-10-27 02:16:00,Groceries,Whole Foods,128.4
+TXN-10088,2025-10-27 05:26:00,Retail,Clothing Outlet,289.25
+TXN-10089,2025-10-28 03:21:00,Transportation,Ride Share,61.12
+TXN-10090,2025-10-28 09:38:00,Dining,Pizzeria,40.82
+TXN-10091,2025-10-28 18:42:00,Utilities,Phone Carrier,157.22
+TXN-10092,2025-10-28 22:13:00,Dining,Local Cafe,57.56
+TXN-10093,2025-10-29 04:37:00,Groceries,Target Grocery,116.03
+TXN-10094,2025-10-29 16:28:00,Dining,Sushi Bar,9.12
+TXN-10095,2025-10-30 05:52:00,Retail,Best Buy,74.54
+TXN-10096,2025-10-30 13:58:00,Utilities,Phone Carrier,187.78
+TXN-10097,2025-11-01 06:20:00,Groceries,Trader Joe's,59.99
+TXN-10098,2025-11-02 00:50:00,Retail,Best Buy,224.84
+TXN-10099,2025-11-03 16:36:00,Utilities,Phone Carrier,113.26
+TXN-10100,2025-11-04 00:39:00,Retail,IKEA,166.13
+TXN-10101,2025-11-04 05:17:00,Utilities,Phone Carrier,61.56
+TXN-10102,2025-11-04 05:36:00,Utilities,Internet Provider,80.81
+TXN-10103,2025-11-04 13:25:00,Groceries,Target Grocery,172.94
+TXN-10104,2025-11-04 16:33:00,Groceries,Whole Foods,161.87
+TXN-10105,2025-11-04 22:16:00,Entertainment,Movie Theater,83.49
+TXN-10106,2025-11-05 04:12:00,Groceries,Costco,90.84
+TXN-10107,2025-11-05 07:36:00,Entertainment,Movie Theater,85.95
+TXN-10108,2025-11-05 12:19:00,Utilities,Electric & Gas Co,155.16
+TXN-10109,2025-11-05 14:19:00,Groceries,Trader Joe's,108.81
+TXN-10110,2025-11-05 17:01:00,Groceries,Costco,24.76
+TXN-10111,2025-11-05 20:29:00,Groceries,Whole Foods,119.41
+TXN-10112,2025-11-05 23:30:00,Transportation,Gas Station,63.82
+TXN-10113,2025-11-06 15:12:00,Dining,Local Cafe,74.6
+TXN-10114,2025-11-06 21:03:00,Dining,Sushi Bar,8.74
+TXN-10115,2025-11-06 22:08:00,Dining,Chipotle,56.92
+TXN-10116,2025-11-07 00:36:00,Groceries,Target Grocery,109.35
+TXN-10117,2025-11-07 05:07:00,Dining,Sushi Bar,37.08
+TXN-10118,2025-11-07 05:44:00,Groceries,Trader Joe's,36.05
+TXN-10119,2025-11-07 07:58:00,Retail,Clothing Outlet,134.54
+TXN-10120,2025-11-07 14:31:00,Dining,Starbucks,31.74
+TXN-10121,2025-11-07 22:34:00,Dining,Sushi Bar,28.29
+TXN-10122,2025-11-08 08:34:00,Dining,Pizzeria,56.97
+TXN-10123,2025-11-08 09:54:00,Dining,Starbucks,54.95
+TXN-10124,2025-11-08 12:30:00,Travel,Train Ticket,562.31
+TXN-10125,2025-11-08 13:51:00,Utilities,Internet Provider,209.57
+TXN-10126,2025-11-08 14:54:00,Groceries,Costco,72.73
+TXN-10127,2025-11-08 14:55:00,Subscription,Cloud Storage,19.74
+TXN-10128,2025-11-08 18:05:00,Groceries,Safeway,123.22
+TXN-10129,2025-11-09 05:32:00,Groceries,Costco,47.8
+TXN-10130,2025-11-10 18:46:00,Entertainment,Concert Venue,48.08
+TXN-10131,2025-11-10 21:59:00,Retail,Amazon,82.89
+TXN-10132,2025-11-11 03:40:00,Travel,Hotel Booking,198.41
+TXN-10133,2025-11-11 05:17:00,Dining,Starbucks,63.44
+TXN-10134,2025-11-11 06:34:00,Utilities,Water Utility,93.27
+TXN-10135,2025-11-11 19:05:00,Groceries,Whole Foods,93.05
+TXN-10136,2025-11-11 20:41:00,Groceries,Whole Foods,22.15
+TXN-10137,2025-11-12 08:38:00,Retail,Bookstore,215.82
+TXN-10138,2025-11-12 15:22:00,Dining,Local Cafe,30.15
+TXN-10139,2025-11-12 19:59:00,Retail,Best Buy,228.53
+TXN-10140,2025-11-13 00:41:00,Retail,Clothing Outlet,135.47
+TXN-10141,2025-11-13 01:09:00,Groceries,Costco,47.3
+TXN-10142,2025-11-13 08:44:00,Utilities,Water Utility,137.24
+TXN-10143,2025-11-13 12:31:00,Subscription,Gym Membership,15.21
+TXN-10144,2025-11-14 18:30:00,Groceries,Trader Joe's,87.69
+TXN-10145,2025-11-15 01:48:00,Retail,Amazon,108.85
+TXN-10146,2025-11-15 05:13:00,Utilities,Internet Provider,205.03
+TXN-10147,2025-11-15 14:24:00,Groceries,Costco,25.05
+TXN-10148,2025-11-16 00:25:00,Utilities,Water Utility,167.98
+TXN-10149,2025-11-16 03:11:00,Travel,Train Ticket,277.93
+TXN-10150,2025-11-16 08:48:00,Groceries,Target Grocery,67.64
+TXN-10151,2025-11-16 13:59:00,Retail,Clothing Outlet,136.34
+TXN-10152,2025-11-16 14:05:00,Groceries,Costco,164.82
+TXN-10153,2025-11-16 14:47:00,Retail,IKEA,87.92
+TXN-10154,2025-11-16 22:48:00,Retail,IKEA,45.57
+TXN-10155,2025-11-17 00:09:00,Dining,Local Cafe,29.35
+TXN-10156,2025-11-17 22:22:00,Dining,Sushi Bar,15.01
+TXN-10157,2025-11-18 02:43:00,Retail,Bookstore,56.01
+TXN-10158,2025-11-18 03:03:00,Dining,Pizzeria,46.45
+TXN-10159,2025-11-18 06:16:00,Retail,Amazon,37.05
+TXN-10160,2025-11-18 20:09:00,Groceries,Target Grocery,20.1
+TXN-10161,2025-11-19 07:03:00,Transportation,Gas Station,60.01
+TXN-10162,2025-11-19 23:18:00,Retail,Amazon,121.26
+TXN-10163,2025-11-20 13:39:00,Transportation,Public Transit Pass,18.78
+TXN-10164,2025-11-20 16:04:00,Groceries,Costco,56.85
+TXN-10165,2025-11-20 18:20:00,Utilities,Electric & Gas Co,159.15
+TXN-10166,2025-11-20 21:07:00,Utilities,Phone Carrier,96.84
+TXN-10167,2025-11-20 21:57:00,Dining,Chipotle,41.13
+TXN-10168,2025-11-21 03:29:00,Dining,Chipotle,16.15
+TXN-10169,2025-11-21 11:38:00,Groceries,Whole Foods,112.04
+TXN-10170,2025-11-21 13:26:00,Retail,Clothing Outlet,108.5
+TXN-10171,2025-11-21 15:59:00,Utilities,Internet Provider,156.58
+TXN-10172,2025-11-21 18:57:00,Groceries,Whole Foods,148.39
+TXN-10173,2025-11-22 01:12:00,Subscription,Cloud Storage,34.46
+TXN-10174,2025-11-22 04:09:00,Dining,Starbucks,27.82
+TXN-10175,2025-11-22 11:34:00,Groceries,Costco,57.2
+TXN-10176,2025-11-22 11:43:00,Entertainment,Video Game Store,49.38
+TXN-10177,2025-11-22 15:04:00,Transportation,Gas Station,21.52
+TXN-10178,2025-11-22 22:15:00,Utilities,Electric & Gas Co,80.8
+TXN-10179,2025-11-22 23:25:00,Groceries,Target Grocery,145.46
+TXN-10180,2025-11-23 02:39:00,Retail,Amazon,127.73
+TXN-10181,2025-11-23 11:04:00,Dining,Pizzeria,37.21
+TXN-10182,2025-11-24 14:23:00,Dining,Chipotle,47.8
+TXN-10183,2025-11-24 17:06:00,Dining,Chipotle,47.51
+TXN-10184,2025-11-26 01:09:00,Utilities,Internet Provider,61.45
+TXN-10185,2025-11-26 06:44:00,Utilities,Electric & Gas Co,191.36
+TXN-10186,2025-11-26 22:48:00,Dining,Pizzeria,19.88
+TXN-10187,2025-11-27 02:21:00,Subscription,Gym Membership,38.91
+TXN-10188,2025-11-27 16:01:00,Transportation,Ride Share,64.09
+TXN-10189,2025-11-27 21:48:00,Dining,Pizzeria,55.9
+TXN-10190,2025-11-27 22:25:00,Retail,IKEA,182.11
+TXN-10191,2025-11-27 22:25:00,Transportation,Gas Station,11.02
+TXN-10192,2025-11-28 02:27:00,Dining,Starbucks,32.15
+TXN-10193,2025-11-28 08:44:00,Dining,Pizzeria,48.52
+TXN-10194,2025-11-28 09:27:00,Subscription,Cloud Storage,25.49
+TXN-10195,2025-11-28 15:40:00,Utilities,Electric & Gas Co,196.79
+TXN-10196,2025-11-29 22:18:00,Retail,Amazon,106.46
+TXN-10197,2025-11-30 01:27:00,Dining,Starbucks,27.67
+TXN-10198,2025-11-30 09:49:00,Travel,Train Ticket,336.2
+TXN-10199,2025-11-30 10:39:00,Groceries,Trader Joe's,69.91
+TXN-10200,2025-11-30 16:25:00,Groceries,Target Grocery,106.97
+TXN-10201,2025-12-01 01:14:00,Subscription,Cloud Storage,38.27
+TXN-10202,2025-12-01 16:47:00,Dining,Sushi Bar,52.39
+TXN-10203,2025-12-01 19:47:00,Groceries,Costco,148.27
+TXN-10204,2025-12-01 20:05:00,Dining,Sushi Bar,67.36
+TXN-10205,2025-12-01 23:36:00,Dining,Local Cafe,62.68
+TXN-10206,2025-12-02 07:48:00,Groceries,Trader Joe's,18.13
+TXN-10207,2025-12-02 08:58:00,Entertainment,Museum Ticket,92.27
+TXN-10208,2025-12-02 10:21:00,Groceries,Trader Joe's,49.39
+TXN-10209,2025-12-04 00:39:00,Retail,Amazon,57.22
+TXN-10210,2025-12-04 06:08:00,Retail,Bookstore,198.78
+TXN-10211,2025-12-04 12:20:00,Transportation,Public Transit Pass,32.38
+TXN-10212,2025-12-04 16:02:00,Groceries,Whole Foods,24.42
+TXN-10213,2025-12-04 17:31:00,Transportation,Ride Share,19.63
+TXN-10214,2025-12-05 02:39:00,Utilities,Phone Carrier,50.16
+TXN-10215,2025-12-05 08:20:00,Subscription,Streaming Service,46.12
+TXN-10216,2025-12-05 09:44:00,Subscription,Gym Membership,10.97
+TXN-10217,2025-12-05 10:50:00,Retail,Bookstore,78.65
+TXN-10218,2025-12-06 08:44:00,Dining,Local Cafe,35.89
+TXN-10219,2025-12-06 15:06:00,Retail,Clothing Outlet,119.84
+TXN-10220,2025-12-06 18:32:00,Utilities,Water Utility,204.99
+TXN-10221,2025-12-06 21:43:00,Retail,Amazon,31.28
+TXN-10222,2025-12-07 05:41:00,Travel,Airline,508.55
+TXN-10223,2025-12-07 07:01:00,Groceries,Whole Foods,127.28
+TXN-10224,2025-12-08 01:05:00,Travel,Hotel Booking,802.19
+TXN-10225,2025-12-08 04:19:00,Groceries,Target Grocery,117.36
+TXN-10226,2025-12-08 11:00:00,Groceries,Trader Joe's,147.62
+TXN-10227,2025-12-08 14:48:00,Groceries,Whole Foods,28.81
+TXN-10228,2025-12-08 19:10:00,Dining,Chipotle,33.86
+TXN-10229,2025-12-09 03:38:00,Subscription,Cloud Storage,24.95
+TXN-10230,2025-12-09 08:38:00,Groceries,Whole Foods,161.24
+TXN-10231,2025-12-09 18:43:00,Groceries,Whole Foods,39.98
+TXN-10232,2025-12-09 22:47:00,Transportation,Public Transit Pass,20.63
+TXN-10233,2025-12-10 23:48:00,Retail,Best Buy,112.0
+TXN-10234,2025-12-11 10:12:00,Retail,Amazon,35.25
+TXN-10235,2025-12-12 07:32:00,Transportation,Gas Station,22.77
+TXN-10236,2025-12-12 08:39:00,Retail,IKEA,290.26
+TXN-10237,2025-12-12 14:48:00,Groceries,Costco,85.65
+TXN-10238,2025-12-12 14:56:00,Dining,Pizzeria,50.35
+TXN-10239,2025-12-13 08:31:00,Retail,Clothing Outlet,223.31
+TXN-10240,2025-12-14 06:08:00,Dining,Chipotle,32.59
+TXN-10241,2025-12-14 16:07:00,Subscription,Cloud Storage,15.88
+TXN-10242,2025-12-14 23:35:00,Groceries,Costco,49.09
+TXN-10243,2025-12-15 06:14:00,Dining,Pizzeria,28.99
+TXN-10244,2025-12-15 08:06:00,Utilities,Phone Carrier,158.13
+TXN-10245,2025-12-15 12:02:00,Subscription,Software License,25.92
+TXN-10246,2025-12-15 13:31:00,Utilities,Water Utility,51.16
+TXN-10247,2025-12-15 15:50:00,Subscription,Gym Membership,30.93
+TXN-10248,2025-12-15 22:52:00,Groceries,Trader Joe's,167.05
+TXN-10249,2025-12-15 23:46:00,Groceries,Trader Joe's,148.99
+TXN-10250,2025-12-16 03:25:00,Transportation,Public Transit Pass,67.76
+TXN-10251,2025-12-16 19:25:00,Subscription,Software License,41.79
+TXN-10252,2025-12-17 03:24:00,Groceries,Whole Foods,68.42
+TXN-10253,2025-12-17 08:40:00,Retail,Amazon,234.25
+TXN-10254,2025-12-17 08:45:00,Groceries,Costco,38.62
+TXN-10255,2025-12-17 12:26:00,Dining,Starbucks,52.07
+TXN-10256,2025-12-17 12:56:00,Groceries,Safeway,120.86
+TXN-10257,2025-12-17 18:46:00,Retail,Best Buy,27.16
+TXN-10258,2025-12-18 13:49:00,Subscription,Software License,41.51
+TXN-10259,2025-12-18 16:59:00,Groceries,Target Grocery,164.04
+TXN-10260,2025-12-19 09:28:00,Transportation,Public Transit Pass,28.72
+TXN-10261,2025-12-19 21:20:00,Dining,Local Cafe,62.43
+TXN-10262,2025-12-19 21:21:00,Dining,Starbucks,13.52
+TXN-10263,2025-12-20 07:34:00,Groceries,Target Grocery,113.99
+TXN-10264,2025-12-20 09:29:00,Dining,Chipotle,40.54
+TXN-10265,2025-12-20 16:01:00,Groceries,Costco,105.08
+TXN-10266,2025-12-20 17:39:00,Utilities,Internet Provider,207.45
+TXN-10267,2025-12-21 03:01:00,Retail,Bookstore,263.97
+TXN-10268,2025-12-21 05:17:00,Utilities,Phone Carrier,183.46
+TXN-10269,2025-12-21 07:34:00,Groceries,Safeway,60.16
+TXN-10270,2025-12-21 12:40:00,Groceries,Trader Joe's,165.45
+TXN-10271,2025-12-22 08:34:00,Groceries,Whole Foods,31.09
+TXN-10272,2025-12-22 13:50:00,Dining,Sushi Bar,65.17
+TXN-10273,2025-12-22 16:20:00,Retail,IKEA,111.88
+TXN-10274,2025-12-23 03:53:00,Groceries,Costco,23.87
+TXN-10275,2025-12-23 08:48:00,Retail,Bookstore,207.42
+TXN-10276,2025-12-23 15:03:00,Transportation,Ride Share,26.19
+TXN-10277,2025-12-23 16:24:00,Dining,Local Cafe,24.32
+TXN-10278,2025-12-23 17:57:00,Retail,Amazon,105.69
+TXN-10279,2025-12-23 21:10:00,Utilities,Phone Carrier,60.83
+TXN-10280,2025-12-24 07:54:00,Subscription,Software License,17.08
+TXN-10281,2025-12-25 09:25:00,Utilities,Phone Carrier,50.87
+TXN-10282,2025-12-25 13:27:00,Dining,Starbucks,37.84
+TXN-10283,2025-12-25 14:33:00,Groceries,Safeway,28.9
+TXN-10284,2025-12-25 16:16:00,Dining,Sushi Bar,53.74
+TXN-10285,2025-12-26 04:07:00,Dining,Starbucks,23.79
+TXN-10286,2025-12-26 10:00:00,Utilities,Water Utility,210.41
+TXN-10287,2025-12-27 08:16:00,Groceries,Whole Foods,158.76
+TXN-10288,2025-12-27 11:12:00,Transportation,Parking Garage,30.26
+TXN-10289,2025-12-28 07:44:00,Retail,Amazon,239.3
+TXN-10290,2025-12-28 11:14:00,Dining,Chipotle,61.82
+TXN-10291,2025-12-28 13:49:00,Groceries,Safeway,177.78
+TXN-10292,2025-12-29 01:50:00,Transportation,Parking Garage,51.85
+TXN-10293,2025-12-29 07:28:00,Retail,Amazon,42.95
+TXN-10294,2025-12-29 10:37:00,Retail,Bookstore,201.11
+TXN-10295,2025-12-29 15:04:00,Dining,Chipotle,49.87
+TXN-10296,2025-12-30 01:55:00,Dining,Sushi Bar,50.77
+TXN-10297,2025-12-31 08:53:00,Groceries,Target Grocery,65.68
+TXN-10298,2025-12-31 14:07:00,Groceries,Whole Foods,156.85
+TXN-10299,2025-12-31 19:32:00,Retail,Amazon,288.65
+TXN-10300,2026-01-01 12:48:00,Retail,Bookstore,80.96
+TXN-10301,2026-01-01 21:14:00,Utilities,Internet Provider,64.99
+TXN-10302,2026-01-02 13:51:00,Transportation,Parking Garage,23.62
+TXN-10303,2026-01-02 16:04:00,Utilities,Internet Provider,189.49
+TXN-10304,2026-01-02 23:37:00,Dining,Pizzeria,53.34
+TXN-10305,2026-01-03 05:31:00,Dining,Local Cafe,50.62
+TXN-10306,2026-01-03 07:38:00,Transportation,Public Transit Pass,38.13
+TXN-10307,2026-01-03 13:01:00,Groceries,Safeway,110.34
+TXN-10308,2026-01-03 18:50:00,Transportation,Public Transit Pass,31.55
+TXN-10309,2026-01-03 23:54:00,Retail,IKEA,153.62
+TXN-10310,2026-01-04 02:58:00,Groceries,Safeway,145.86
+TXN-10311,2026-01-04 08:35:00,Utilities,Electric & Gas Co,216.81
+TXN-10312,2026-01-04 23:22:00,Transportation,Ride Share,75.27
+TXN-10313,2026-01-06 05:45:00,Utilities,Phone Carrier,208.76
+TXN-10314,2026-01-06 08:34:00,Transportation,Parking Garage,38.16
+TXN-10315,2026-01-06 15:47:00,Transportation,Parking Garage,42.82
+TXN-10316,2026-01-06 17:29:00,Dining,Chipotle,55.28
+TXN-10317,2026-01-07 11:24:00,Dining,Starbucks,69.79
+TXN-10318,2026-01-07 11:39:00,Transportation,Public Transit Pass,19.94
+TXN-10319,2026-01-07 12:40:00,Subscription,Gym Membership,22.16
+TXN-10320,2026-01-07 15:35:00,Groceries,Costco,37.98
+TXN-10321,2026-01-08 05:40:00,Groceries,Whole Foods,115.98
+TXN-10322,2026-01-08 06:09:00,Utilities,Water Utility,102.07
+TXN-10323,2026-01-08 07:23:00,Transportation,Public Transit Pass,32.83
+TXN-10324,2026-01-08 11:40:00,Retail,Amazon,39.86
+TXN-10325,2026-01-08 20:07:00,Subscription,Software License,23.98
+TXN-10326,2026-01-09 00:07:00,Groceries,Whole Foods,157.31
+TXN-10327,2026-01-09 05:51:00,Dining,Sushi Bar,23.62
+TXN-10328,2026-01-09 11:02:00,Transportation,Gas Station,58.66
+TXN-10329,2026-01-09 19:41:00,Groceries,Costco,118.89
+TXN-10330,2026-01-10 01:11:00,Dining,Sushi Bar,65.85
+TXN-10331,2026-01-10 10:34:00,Groceries,Safeway,36.83
+TXN-10332,2026-01-10 22:21:00,Subscription,Software License,49.09
+TXN-10333,2026-01-11 01:37:00,Transportation,Ride Share,50.78
+TXN-10334,2026-01-11 05:59:00,Dining,Chipotle,74.7
+TXN-10335,2026-01-11 16:13:00,Dining,Sushi Bar,69.07
+TXN-10336,2026-01-11 19:28:00,Subscription,Gym Membership,18.85
+TXN-10337,2026-01-12 02:31:00,Travel,Car Rental,189.31
+TXN-10338,2026-01-12 10:11:00,Groceries,Target Grocery,57.18
+TXN-10339,2026-01-12 13:31:00,Dining,Local Cafe,43.35
+TXN-10340,2026-01-12 19:34:00,Dining,Local Cafe,19.5
+TXN-10341,2026-01-13 06:03:00,Transportation,Ride Share,21.72
+TXN-10342,2026-01-13 23:02:00,Dining,Starbucks,38.99
+TXN-10343,2026-01-14 03:29:00,Groceries,Safeway,20.49
+TXN-10344,2026-01-14 03:53:00,Subscription,Streaming Service,14.87
+TXN-10345,2026-01-14 12:05:00,Retail,Amazon,136.44
+TXN-10346,2026-01-16 01:54:00,Groceries,Target Grocery,25.42
+TXN-10347,2026-01-16 11:50:00,Transportation,Gas Station,37.77
+TXN-10348,2026-01-16 12:33:00,Groceries,Target Grocery,93.21
+TXN-10349,2026-01-16 19:49:00,Utilities,Water Utility,126.72
+TXN-10350,2026-01-17 18:23:00,Dining,Pizzeria,66.23
+TXN-10351,2026-01-18 13:09:00,Retail,Clothing Outlet,168.42
+TXN-10352,2026-01-18 15:53:00,Dining,Local Cafe,39.35
+TXN-10353,2026-01-19 07:39:00,Transportation,Parking Garage,38.75
+TXN-10354,2026-01-19 13:55:00,Retail,Clothing Outlet,248.93
+TXN-10355,2026-01-19 21:33:00,Subscription,Software License,45.79
+TXN-10356,2026-01-19 22:54:00,Retail,IKEA,258.91
+TXN-10357,2026-01-20 02:24:00,Retail,IKEA,208.59
+TXN-10358,2026-01-20 12:08:00,Groceries,Target Grocery,37.66
+TXN-10359,2026-01-20 19:59:00,Dining,Local Cafe,26.55
+TXN-10360,2026-01-21 02:51:00,Transportation,Gas Station,13.22
+TXN-10361,2026-01-21 04:48:00,Groceries,Trader Joe's,168.59
+TXN-10362,2026-01-21 06:39:00,Retail,IKEA,205.02
+TXN-10363,2026-01-21 08:16:00,Entertainment,Movie Theater,93.37
+TXN-10364,2026-01-21 17:29:00,Groceries,Trader Joe's,66.41
+TXN-10365,2026-01-21 21:44:00,Subscription,Software License,43.82
+TXN-10366,2026-01-22 17:16:00,Dining,Sushi Bar,25.39
+TXN-10367,2026-01-22 21:51:00,Utilities,Internet Provider,50.28
+TXN-10368,2026-01-23 16:13:00,Groceries,Target Grocery,77.11
+TXN-10369,2026-01-24 20:31:00,Groceries,Whole Foods,109.18
+TXN-10370,2026-01-25 01:23:00,Subscription,Cloud Storage,29.14
+TXN-10371,2026-01-25 05:57:00,Retail,Clothing Outlet,261.38
+TXN-10372,2026-01-25 11:04:00,Retail,Bookstore,49.51
+TXN-10373,2026-01-26 02:58:00,Utilities,Internet Provider,144.15
+TXN-10374,2026-01-26 04:19:00,Groceries,Whole Foods,99.64
+TXN-10375,2026-01-26 05:12:00,Subscription,Gym Membership,21.25
+TXN-10376,2026-01-26 20:21:00,Groceries,Safeway,150.67
+TXN-10377,2026-01-27 23:32:00,Transportation,Ride Share,62.7
+TXN-10378,2026-01-28 05:52:00,Retail,Amazon,225.2
+TXN-10379,2026-01-28 08:40:00,Retail,Bookstore,265.33
+TXN-10380,2026-01-28 11:55:00,Transportation,Gas Station,60.59
+TXN-10381,2026-01-28 13:22:00,Groceries,Whole Foods,53.25
+TXN-10382,2026-01-28 14:24:00,Retail,Clothing Outlet,217.56
+TXN-10383,2026-01-28 17:49:00,Dining,Pizzeria,28.62
+TXN-10384,2026-01-28 22:15:00,Transportation,Ride Share,26.95
+TXN-10385,2026-01-29 01:52:00,Dining,Pizzeria,12.89
+TXN-10386,2026-01-29 09:07:00,Retail,Clothing Outlet,228.33
+TXN-10387,2026-01-30 03:25:00,Transportation,Public Transit Pass,59.77
+TXN-10388,2026-01-30 18:22:00,Groceries,Costco,53.69
+TXN-10389,2026-01-30 18:54:00,Dining,Starbucks,58.21
+TXN-10390,2026-01-30 22:38:00,Retail,Clothing Outlet,277.0
+TXN-10391,2026-01-31 08:02:00,Dining,Pizzeria,15.24
+TXN-10392,2026-01-31 09:32:00,Dining,Pizzeria,23.59
+TXN-10393,2026-02-01 05:38:00,Groceries,Trader Joe's,138.79
+TXN-10394,2026-02-01 09:29:00,Groceries,Whole Foods,60.29
+TXN-10395,2026-02-01 14:24:00,Transportation,Parking Garage,53.73
+TXN-10396,2026-02-01 22:56:00,Utilities,Water Utility,63.8
+TXN-10397,2026-02-02 06:21:00,Groceries,Trader Joe's,89.61
+TXN-10398,2026-02-02 06:40:00,Dining,Sushi Bar,57.52
+TXN-10399,2026-02-03 01:52:00,Dining,Starbucks,54.0
+TXN-10400,2026-02-03 02:44:00,Groceries,Whole Foods,149.49
+TXN-10401,2026-02-03 10:42:00,Dining,Sushi Bar,66.79
+TXN-10402,2026-02-03 11:24:00,Dining,Sushi Bar,59.8
+TXN-10403,2026-02-03 12:51:00,Dining,Sushi Bar,53.0
+TXN-10404,2026-02-03 19:27:00,Retail,IKEA,28.88
+TXN-10405,2026-02-04 08:11:00,Groceries,Costco,103.27
+TXN-10406,2026-02-05 00:47:00,Subscription,Software License,11.5
+TXN-10407,2026-02-05 06:17:00,Utilities,Phone Carrier,187.37
+TXN-10408,2026-02-05 12:30:00,Utilities,Internet Provider,104.52
+TXN-10409,2026-02-05 16:49:00,Subscription,Gym Membership,32.49
+TXN-10410,2026-02-06 00:46:00,Utilities,Electric & Gas Co,97.51
+TXN-10411,2026-02-06 01:59:00,Transportation,Gas Station,64.78
+TXN-10412,2026-02-06 12:54:00,Subscription,Cloud Storage,45.45
+TXN-10413,2026-02-06 22:07:00,Utilities,Phone Carrier,117.77
+TXN-10414,2026-02-06 23:56:00,Retail,IKEA,261.62
+TXN-10415,2026-02-07 02:17:00,Subscription,Cloud Storage,20.67
+TXN-10416,2026-02-07 21:22:00,Dining,Local Cafe,43.82
+TXN-10417,2026-02-08 00:04:00,Groceries,Safeway,156.7
+TXN-10418,2026-02-08 04:42:00,Groceries,Costco,68.77
+TXN-10419,2026-02-08 09:09:00,Transportation,Parking Garage,76.78
+TXN-10420,2026-02-08 11:27:00,Retail,IKEA,54.13
+TXN-10421,2026-02-08 17:36:00,Transportation,Public Transit Pass,11.28
+TXN-10422,2026-02-08 21:52:00,Subscription,Software License,46.16
+TXN-10423,2026-02-08 22:25:00,Dining,Sushi Bar,12.6
+TXN-10424,2026-02-09 05:18:00,Groceries,Trader Joe's,178.66
+TXN-10425,2026-02-09 19:09:00,Subscription,Gym Membership,48.05
+TXN-10426,2026-02-10 23:36:00,Utilities,Electric & Gas Co,73.29
+TXN-10427,2026-02-11 02:06:00,Travel,Car Rental,526.31
+TXN-10428,2026-02-11 14:14:00,Groceries,Costco,45.51
+TXN-10429,2026-02-11 18:59:00,Utilities,Internet Provider,122.79
+TXN-10430,2026-02-11 22:58:00,Subscription,Streaming Service,12.45
+TXN-10431,2026-02-12 02:16:00,Subscription,Streaming Service,18.95
+TXN-10432,2026-02-12 08:07:00,Utilities,Electric & Gas Co,111.76
+TXN-10433,2026-02-13 04:28:00,Retail,IKEA,142.82
+TXN-10434,2026-02-13 07:24:00,Groceries,Safeway,176.29
+TXN-10435,2026-02-13 09:57:00,Retail,Clothing Outlet,246.2
+TXN-10436,2026-02-13 17:27:00,Subscription,Software License,39.49
+TXN-10437,2026-02-13 19:02:00,Transportation,Gas Station,47.59
+TXN-10438,2026-02-13 23:10:00,Retail,Best Buy,255.2
+TXN-10439,2026-02-14 01:11:00,Dining,Pizzeria,30.73
+TXN-10440,2026-02-14 04:32:00,Dining,Local Cafe,55.5
+TXN-10441,2026-02-14 11:10:00,Travel,Airline,845.65
+TXN-10442,2026-02-14 18:47:00,Utilities,Water Utility,103.49
+TXN-10443,2026-02-14 22:02:00,Transportation,Ride Share,57.18
+TXN-10444,2026-02-16 03:12:00,Groceries,Costco,154.31
+TXN-10445,2026-02-16 14:26:00,Subscription,Streaming Service,46.62
+TXN-10446,2026-02-16 19:14:00,Retail,Amazon,221.02
+TXN-10447,2026-02-17 07:01:00,Transportation,Parking Garage,29.85
+TXN-10448,2026-02-18 05:48:00,Dining,Pizzeria,29.86
+TXN-10449,2026-02-18 17:27:00,Retail,Best Buy,25.81
+TXN-10450,2026-02-18 17:31:00,Utilities,Water Utility,179.35
+TXN-10451,2026-02-18 21:18:00,Groceries,Costco,22.05
+TXN-10452,2026-02-18 22:21:00,Subscription,Software License,44.58
+TXN-10453,2026-02-18 22:50:00,Subscription,Cloud Storage,14.74
+TXN-10454,2026-02-19 04:57:00,Transportation,Gas Station,22.03
+TXN-10455,2026-02-19 05:36:00,Dining,Starbucks,39.93
+TXN-10456,2026-02-19 11:50:00,Groceries,Costco,136.75
+TXN-10457,2026-02-19 23:29:00,Groceries,Trader Joe's,37.94
+TXN-10458,2026-02-20 01:01:00,Dining,Pizzeria,37.48
+TXN-10459,2026-02-20 01:41:00,Dining,Starbucks,40.35
+TXN-10460,2026-02-20 21:59:00,Retail,Bookstore,79.44
+TXN-10461,2026-02-21 07:00:00,Dining,Pizzeria,15.74
+TXN-10462,2026-02-21 12:22:00,Transportation,Ride Share,68.55
+TXN-10463,2026-02-21 12:49:00,Entertainment,Concert Venue,67.76
+TXN-10464,2026-02-21 20:04:00,Subscription,Streaming Service,10.57
+TXN-10465,2026-02-22 06:24:00,Transportation,Public Transit Pass,66.21
+TXN-10466,2026-02-22 12:19:00,Retail,Amazon,294.62
+TXN-10467,2026-02-22 20:07:00,Utilities,Water Utility,153.01
+TXN-10468,2026-02-23 01:48:00,Groceries,Safeway,98.11
+TXN-10469,2026-02-23 14:11:00,Dining,Pizzeria,66.85
+TXN-10470,2026-02-23 14:35:00,Utilities,Water Utility,211.93
+TXN-10471,2026-02-23 19:48:00,Transportation,Parking Garage,62.82
+TXN-10472,2026-02-24 00:55:00,Dining,Starbucks,37.85
+TXN-10473,2026-02-24 04:02:00,Transportation,Parking Garage,51.46
+TXN-10474,2026-02-24 15:18:00,Subscription,Cloud Storage,38.03
+TXN-10475,2026-02-24 16:55:00,Groceries,Safeway,47.06
+TXN-10476,2026-02-25 06:51:00,Travel,Train Ticket,463.04
+TXN-10477,2026-02-25 20:39:00,Utilities,Electric & Gas Co,191.07
+TXN-10478,2026-02-25 21:21:00,Dining,Local Cafe,51.87
+TXN-10479,2026-02-25 23:14:00,Subscription,Cloud Storage,26.44
+TXN-10480,2026-02-26 07:45:00,Groceries,Costco,124.45
+TXN-10481,2026-02-26 08:27:00,Subscription,Software License,14.72
+TXN-10482,2026-02-26 09:22:00,Dining,Sushi Bar,34.9
+TXN-10483,2026-02-26 14:08:00,Dining,Starbucks,61.14
+TXN-10484,2026-02-26 16:21:00,Entertainment,Video Game Store,38.15
+TXN-10485,2026-02-26 16:22:00,Utilities,Internet Provider,81.61
+TXN-10486,2026-02-27 11:57:00,Groceries,Target Grocery,171.89
+TXN-10487,2026-02-27 20:05:00,Dining,Starbucks,22.06
+TXN-10488,2026-02-28 01:26:00,Transportation,Gas Station,28.26
+TXN-10489,2026-02-28 09:34:00,Groceries,Whole Foods,174.99
+TXN-10490,2026-02-28 11:31:00,Groceries,Whole Foods,136.23
+TXN-10491,2026-02-28 17:44:00,Groceries,Target Grocery,130.43
+TXN-10492,2026-03-01 06:51:00,Groceries,Target Grocery,155.73
+TXN-10493,2026-03-01 12:11:00,Retail,Best Buy,52.43
+TXN-10494,2026-03-01 14:58:00,Retail,IKEA,217.67
+TXN-10495,2026-03-01 15:48:00,Dining,Sushi Bar,41.75
+TXN-10496,2026-03-01 16:04:00,Subscription,Gym Membership,43.16
+TXN-10497,2026-03-01 17:48:00,Dining,Pizzeria,42.05
+TXN-10498,2026-03-01 21:55:00,Entertainment,Movie Theater,80.13
+TXN-10499,2026-03-02 05:57:00,Entertainment,Movie Theater,65.16
+TXN-10500,2026-03-02 06:51:00,Dining,Starbucks,40.04
+TXN-10501,2026-03-02 15:00:00,Transportation,Ride Share,63.76
+TXN-10502,2026-03-02 16:32:00,Retail,Amazon,196.0
+TXN-10503,2026-03-03 01:53:00,Dining,Starbucks,50.43
+TXN-10504,2026-03-03 04:03:00,Groceries,Target Grocery,89.3
+TXN-10505,2026-03-03 04:34:00,Dining,Pizzeria,43.58
+TXN-10506,2026-03-03 04:37:00,Retail,IKEA,228.8
+TXN-10507,2026-03-03 11:55:00,Entertainment,Museum Ticket,101.72
+TXN-10508,2026-03-03 13:58:00,Retail,Clothing Outlet,215.04
+TXN-10509,2026-03-03 17:20:00,Transportation,Parking Garage,74.69
+TXN-10510,2026-03-04 16:40:00,Subscription,Software License,42.8
+TXN-10511,2026-03-04 21:13:00,Retail,Bookstore,177.32
+TXN-10512,2026-03-05 14:14:00,Retail,Best Buy,207.99
+TXN-10513,2026-03-05 20:07:00,Dining,Sushi Bar,70.06
+TXN-10514,2026-03-05 23:25:00,Utilities,Phone Carrier,155.26
+TXN-10515,2026-03-06 05:04:00,Retail,Bookstore,250.95
+TXN-10516,2026-03-06 14:27:00,Groceries,Costco,128.65
+TXN-10517,2026-03-06 14:44:00,Retail,IKEA,174.54
+TXN-10518,2026-03-07 06:30:00,Groceries,Target Grocery,54.9
+TXN-10519,2026-03-07 11:34:00,Utilities,Phone Carrier,122.42
+TXN-10520,2026-03-07 13:05:00,Retail,Clothing Outlet,290.97
+TXN-10521,2026-03-07 13:52:00,Dining,Chipotle,52.07
+TXN-10522,2026-03-07 17:18:00,Groceries,Whole Foods,108.13
+TXN-10523,2026-03-07 22:15:00,Dining,Starbucks,70.51
+TXN-10524,2026-03-08 14:35:00,Transportation,Public Transit Pass,51.06
+TXN-10525,2026-03-08 18:48:00,Groceries,Trader Joe's,101.8
+TXN-10526,2026-03-08 23:34:00,Transportation,Public Transit Pass,63.15
+TXN-10527,2026-03-09 06:58:00,Groceries,Costco,132.59
+TXN-10528,2026-03-09 10:09:00,Travel,Hotel Booking,285.21
+TXN-10529,2026-03-09 10:52:00,Entertainment,Museum Ticket,64.49
+TXN-10530,2026-03-09 19:23:00,Dining,Sushi Bar,39.66
+TXN-10531,2026-03-09 20:07:00,Utilities,Internet Provider,114.3
+TXN-10532,2026-03-09 23:10:00,Dining,Chipotle,42.66
+TXN-10533,2026-03-09 23:40:00,Subscription,Streaming Service,26.51
+TXN-10534,2026-03-10 02:17:00,Groceries,Trader Joe's,47.89
+TXN-10535,2026-03-10 03:32:00,Groceries,Whole Foods,83.04
+TXN-10536,2026-03-10 08:24:00,Groceries,Safeway,26.93
+TXN-10537,2026-03-10 16:05:00,Dining,Chipotle,46.58
+TXN-10538,2026-03-10 16:28:00,Dining,Chipotle,65.19
+TXN-10539,2026-03-10 17:52:00,Subscription,Streaming Service,39.0
+TXN-10540,2026-03-10 22:20:00,Travel,Airline,402.28
+TXN-10541,2026-03-10 23:51:00,Dining,Pizzeria,13.83
+TXN-10542,2026-03-11 00:22:00,Utilities,Internet Provider,84.37
+TXN-10543,2026-03-11 02:48:00,Dining,Sushi Bar,44.55
+TXN-10544,2026-03-11 22:40:00,Retail,IKEA,77.98
+TXN-10545,2026-03-12 01:26:00,Transportation,Public Transit Pass,48.08
+TXN-10546,2026-03-12 15:05:00,Transportation,Ride Share,26.21
+TXN-10547,2026-03-12 15:40:00,Entertainment,Movie Theater,104.14
+TXN-10548,2026-03-12 19:33:00,Groceries,Costco,80.55
+TXN-10549,2026-03-13 09:32:00,Retail,IKEA,88.75
+TXN-10550,2026-03-13 09:36:00,Retail,Clothing Outlet,247.45
+TXN-10551,2026-03-13 12:22:00,Groceries,Target Grocery,71.57
+TXN-10552,2026-03-13 13:00:00,Entertainment,Museum Ticket,26.71
+TXN-10553,2026-03-14 04:18:00,Groceries,Costco,109.12
+TXN-10554,2026-03-14 16:48:00,Subscription,Software License,33.25
+TXN-10555,2026-03-14 21:20:00,Groceries,Safeway,132.92
+TXN-10556,2026-03-15 18:03:00,Dining,Chipotle,24.09
+TXN-10557,2026-03-17 00:58:00,Retail,IKEA,144.26
+TXN-10558,2026-03-17 01:11:00,Utilities,Phone Carrier,98.0
+TXN-10559,2026-03-17 01:19:00,Dining,Local Cafe,13.42
+TXN-10560,2026-03-19 08:49:00,Dining,Pizzeria,66.73
+TXN-10561,2026-03-19 21:20:00,Retail,IKEA,224.08
+TXN-10562,2026-03-20 03:12:00,Groceries,Target Grocery,64.74
+TXN-10563,2026-03-21 00:52:00,Dining,Starbucks,48.16
+TXN-10564,2026-03-21 01:12:00,Transportation,Public Transit Pass,24.09
+TXN-10565,2026-03-21 01:37:00,Retail,Best Buy,269.27
+TXN-10566,2026-03-21 05:31:00,Dining,Chipotle,15.7
+TXN-10567,2026-03-21 23:44:00,Retail,Best Buy,21.07
+TXN-10568,2026-03-22 01:26:00,Retail,Best Buy,160.56
+TXN-10569,2026-03-22 03:16:00,Transportation,Gas Station,50.82
+TXN-10570,2026-03-22 03:29:00,Utilities,Phone Carrier,148.42
+TXN-10571,2026-03-22 06:13:00,Groceries,Target Grocery,23.99
+TXN-10572,2026-03-22 11:04:00,Dining,Sushi Bar,29.04
+TXN-10573,2026-03-22 11:31:00,Dining,Local Cafe,41.45
+TXN-10574,2026-03-22 14:20:00,Utilities,Electric & Gas Co,86.82
+TXN-10575,2026-03-22 16:25:00,Groceries,Whole Foods,158.98
+TXN-10576,2026-03-23 12:39:00,Subscription,Streaming Service,13.47
+TXN-10577,2026-03-23 14:14:00,Dining,Starbucks,40.65
+TXN-10578,2026-03-23 16:55:00,Dining,Local Cafe,54.32
+TXN-10579,2026-03-23 23:49:00,Transportation,Parking Garage,28.32
+TXN-10580,2026-03-24 04:11:00,Dining,Starbucks,49.82
+TXN-10581,2026-03-25 10:36:00,Groceries,Costco,151.85
+TXN-10582,2026-03-25 12:08:00,Retail,Best Buy,73.29
+TXN-10583,2026-03-25 17:05:00,Groceries,Safeway,166.34
+TXN-10584,2026-03-27 00:26:00,Retail,Best Buy,175.0
+TXN-10585,2026-03-27 02:59:00,Retail,Amazon,103.78
+TXN-10586,2026-03-27 04:51:00,Dining,Sushi Bar,36.87
+TXN-10587,2026-03-27 17:16:00,Retail,Bookstore,107.41
+TXN-10588,2026-03-27 19:46:00,Utilities,Internet Provider,173.27
+TXN-10589,2026-03-27 22:43:00,Dining,Local Cafe,61.35
+TXN-10590,2026-03-27 23:09:00,Groceries,Safeway,152.43
+TXN-10591,2026-03-27 23:14:00,Dining,Local Cafe,74.05
+TXN-10592,2026-03-28 05:32:00,Transportation,Public Transit Pass,65.39
+TXN-10593,2026-03-28 06:48:00,Dining,Local Cafe,48.29
+TXN-10594,2026-03-28 07:41:00,Utilities,Electric & Gas Co,107.67
+TXN-10595,2026-03-28 13:11:00,Utilities,Internet Provider,142.58
+TXN-10596,2026-03-29 09:05:00,Utilities,Water Utility,56.98
+TXN-10597,2026-03-29 09:57:00,Groceries,Whole Foods,137.9
+TXN-10598,2026-03-29 16:48:00,Dining,Pizzeria,37.88
+TXN-10599,2026-03-30 02:59:00,Retail,Clothing Outlet,25.61
+TXN-10600,2026-03-30 09:57:00,Groceries,Target Grocery,25.31
+TXN-10601,2026-03-30 17:36:00,Groceries,Trader Joe's,78.93
+TXN-10602,2026-03-30 23:59:00,Groceries,Target Grocery,111.26
+TXN-10603,2026-03-31 06:26:00,Dining,Chipotle,39.1
+TXN-10604,2026-03-31 13:59:00,Transportation,Gas Station,53.34
+TXN-10605,2026-03-31 22:56:00,Groceries,Trader Joe's,94.25
+TXN-10606,2026-04-01 01:26:00,Groceries,Safeway,124.18
+TXN-10607,2026-04-01 08:24:00,Dining,Chipotle,22.68
+TXN-10608,2026-04-01 12:22:00,Retail,Amazon,51.6
+TXN-10609,2026-04-01 16:54:00,Subscription,Cloud Storage,33.85
+TXN-10610,2026-04-01 18:43:00,Dining,Chipotle,40.47
+TXN-10611,2026-04-01 22:43:00,Retail,Amazon,27.52
+TXN-10612,2026-04-02 02:31:00,Subscription,Streaming Service,25.21
+TXN-10613,2026-04-02 14:28:00,Transportation,Ride Share,17.43
+TXN-10614,2026-04-02 14:42:00,Retail,Best Buy,168.78
+TXN-10615,2026-04-02 16:09:00,Dining,Sushi Bar,34.52
+TXN-10616,2026-04-03 06:30:00,Dining,Chipotle,49.08
+TXN-10617,2026-04-03 15:55:00,Groceries,Safeway,147.92
+TXN-10618,2026-04-04 03:46:00,Dining,Starbucks,28.08
+TXN-10619,2026-04-04 22:51:00,Travel,Car Rental,823.47
+TXN-10620,2026-04-05 04:36:00,Dining,Starbucks,43.89
+TXN-10621,2026-04-05 18:48:00,Groceries,Costco,117.02
+TXN-10622,2026-04-06 10:20:00,Retail,Clothing Outlet,210.59
+TXN-10623,2026-04-06 15:14:00,Utilities,Water Utility,163.34
+TXN-10624,2026-04-07 00:55:00,Groceries,Costco,99.31
+TXN-10625,2026-04-07 08:51:00,Dining,Local Cafe,36.73
+TXN-10626,2026-04-07 20:38:00,Dining,Chipotle,11.6
+TXN-10627,2026-04-08 00:20:00,Retail,Bookstore,26.18
+TXN-10628,2026-04-08 02:18:00,Groceries,Trader Joe's,74.06
+TXN-10629,2026-04-08 04:11:00,Dining,Chipotle,30.36
+TXN-10630,2026-04-08 13:01:00,Utilities,Water Utility,115.91
+TXN-10631,2026-04-08 13:50:00,Dining,Starbucks,17.27
+TXN-10632,2026-04-08 14:50:00,Subscription,Software License,39.52
+TXN-10633,2026-04-08 22:25:00,Dining,Local Cafe,65.42
+TXN-10634,2026-04-09 02:06:00,Dining,Starbucks,70.89
+TXN-10635,2026-04-09 17:25:00,Transportation,Ride Share,44.47
+TXN-10636,2026-04-09 20:34:00,Subscription,Software License,38.02
+TXN-10637,2026-04-10 02:48:00,Groceries,Costco,156.17
+TXN-10638,2026-04-10 04:35:00,Utilities,Internet Provider,121.11
+TXN-10639,2026-04-10 05:08:00,Retail,IKEA,106.64
+TXN-10640,2026-04-10 18:48:00,Retail,Amazon,282.28
+TXN-10641,2026-04-11 21:25:00,Groceries,Target Grocery,100.09
+TXN-10642,2026-04-11 22:54:00,Entertainment,Video Game Store,67.21
+TXN-10643,2026-04-12 21:27:00,Dining,Chipotle,19.95
+TXN-10644,2026-04-13 17:57:00,Groceries,Target Grocery,32.85
+TXN-10645,2026-04-13 21:13:00,Groceries,Target Grocery,153.95
+TXN-10646,2026-04-13 22:54:00,Groceries,Costco,116.33
+TXN-10647,2026-04-14 09:56:00,Retail,Bookstore,111.23
+TXN-10648,2026-04-14 12:48:00,Groceries,Safeway,46.64
+TXN-10649,2026-04-14 17:54:00,Groceries,Safeway,106.66
+TXN-10650,2026-04-14 19:33:00,Transportation,Public Transit Pass,50.87
+TXN-10651,2026-04-15 04:37:00,Dining,Starbucks,21.87
+TXN-10652,2026-04-15 18:10:00,Groceries,Whole Foods,155.48
+TXN-10653,2026-04-16 01:00:00,Groceries,Target Grocery,28.9
+TXN-10654,2026-04-16 06:55:00,Groceries,Target Grocery,73.76
+TXN-10655,2026-04-16 07:24:00,Groceries,Costco,127.26
+TXN-10656,2026-04-16 07:26:00,Subscription,Cloud Storage,20.95
+TXN-10657,2026-04-16 16:58:00,Groceries,Whole Foods,151.57
+TXN-10658,2026-04-16 20:23:00,Groceries,Trader Joe's,137.08
+TXN-10659,2026-04-16 21:10:00,Retail,Clothing Outlet,240.93
+TXN-10660,2026-04-17 02:28:00,Subscription,Streaming Service,14.75
+TXN-10661,2026-04-17 20:41:00,Dining,Sushi Bar,17.42
+TXN-10662,2026-04-19 00:52:00,Utilities,Electric & Gas Co,98.7
+TXN-10663,2026-04-19 01:52:00,Dining,Pizzeria,42.71
+TXN-10664,2026-04-19 05:15:00,Dining,Chipotle,58.12
+TXN-10665,2026-04-19 08:03:00,Utilities,Phone Carrier,192.21
+TXN-10666,2026-04-19 19:59:00,Dining,Sushi Bar,55.19
+TXN-10667,2026-04-20 05:45:00,Transportation,Parking Garage,75.0
+TXN-10668,2026-04-20 07:31:00,Groceries,Costco,136.89
+TXN-10669,2026-04-20 18:34:00,Retail,Bookstore,105.76
+TXN-10670,2026-04-20 18:38:00,Groceries,Costco,58.74
+TXN-10671,2026-04-21 04:35:00,Retail,IKEA,214.93
+TXN-10672,2026-04-21 07:25:00,Subscription,Software License,17.7
+TXN-10673,2026-04-21 21:21:00,Retail,Clothing Outlet,45.96
+TXN-10674,2026-04-21 23:58:00,Groceries,Target Grocery,102.82
+TXN-10675,2026-04-22 03:58:00,Utilities,Phone Carrier,189.68
+TXN-10676,2026-04-22 07:07:00,Utilities,Electric & Gas Co,67.23
+TXN-10677,2026-04-22 15:25:00,Retail,Clothing Outlet,241.73
+TXN-10678,2026-04-23 03:00:00,Utilities,Electric & Gas Co,187.97
+TXN-10679,2026-04-24 12:28:00,Utilities,Internet Provider,131.99
+TXN-10680,2026-04-24 16:35:00,Dining,Sushi Bar,11.84
+TXN-10681,2026-04-24 19:17:00,Dining,Sushi Bar,19.7
+TXN-10682,2026-04-25 04:20:00,Dining,Starbucks,55.4
+TXN-10683,2026-04-25 14:55:00,Groceries,Costco,132.44
+TXN-10684,2026-04-26 07:59:00,Entertainment,Concert Venue,109.33
+TXN-10685,2026-04-26 12:17:00,Retail,Clothing Outlet,183.15
+TXN-10686,2026-04-27 02:33:00,Entertainment,Museum Ticket,28.03
+TXN-10687,2026-04-27 07:20:00,Groceries,Costco,35.03
+TXN-10688,2026-04-27 13:13:00,Transportation,Public Transit Pass,60.48
+TXN-10689,2026-04-28 00:15:00,Retail,Bookstore,71.46
+TXN-10690,2026-04-28 00:46:00,Subscription,Streaming Service,23.13
+TXN-10691,2026-04-28 01:26:00,Subscription,Gym Membership,29.48
+TXN-10692,2026-04-28 16:11:00,Dining,Local Cafe,9.66
+TXN-10693,2026-04-28 18:32:00,Retail,Bookstore,89.67
+TXN-10694,2026-04-29 06:50:00,Utilities,Water Utility,119.34
+TXN-10695,2026-04-29 16:44:00,Groceries,Safeway,61.14
+TXN-10696,2026-04-29 21:36:00,Dining,Pizzeria,17.14
+TXN-10697,2026-04-30 12:27:00,Transportation,Ride Share,60.96
+TXN-10698,2026-05-01 11:31:00,Transportation,Parking Garage,66.92
+TXN-10699,2026-05-01 14:00:00,Travel,Hotel Booking,330.24
+TXN-10700,2026-05-01 23:33:00,Subscription,Streaming Service,40.97
+TXN-10701,2026-05-02 02:00:00,Groceries,Whole Foods,78.62
+TXN-10702,2026-05-02 07:48:00,Groceries,Safeway,98.6
+TXN-10703,2026-05-02 13:25:00,Groceries,Costco,156.24
+TXN-10704,2026-05-02 14:55:00,Groceries,Whole Foods,138.74
+TXN-10705,2026-05-02 14:55:00,Dining,Pizzeria,61.94
+TXN-10706,2026-05-02 19:27:00,Groceries,Target Grocery,37.58
+TXN-10707,2026-05-03 04:10:00,Dining,Sushi Bar,12.67
+TXN-10708,2026-05-03 07:20:00,Transportation,Parking Garage,72.54
+TXN-10709,2026-05-03 10:10:00,Dining,Sushi Bar,33.98
+TXN-10710,2026-05-03 17:30:00,Transportation,Gas Station,30.15
+TXN-10711,2026-05-04 00:07:00,Subscription,Software License,38.98
+TXN-10712,2026-05-04 01:44:00,Groceries,Whole Foods,153.01
+TXN-10713,2026-05-04 02:31:00,Dining,Starbucks,65.79
+TXN-10714,2026-05-04 04:15:00,Groceries,Target Grocery,67.14
+TXN-10715,2026-05-04 10:33:00,Dining,Local Cafe,65.1
+TXN-10716,2026-05-04 18:07:00,Subscription,Gym Membership,11.63
+TXN-10717,2026-05-04 18:15:00,Groceries,Trader Joe's,23.19
+TXN-10718,2026-05-05 02:40:00,Groceries,Target Grocery,117.88
+TXN-10719,2026-05-05 12:40:00,Dining,Chipotle,12.23
+TXN-10720,2026-05-05 17:28:00,Travel,Hotel Booking,377.23
+TXN-10721,2026-05-05 20:56:00,Retail,Clothing Outlet,208.37
+TXN-10722,2026-05-05 21:12:00,Retail,Bookstore,114.43
+TXN-10723,2026-05-05 22:49:00,Groceries,Whole Foods,44.63
+TXN-10724,2026-05-06 10:09:00,Retail,Clothing Outlet,98.78
+TXN-10725,2026-05-06 12:39:00,Retail,IKEA,148.12
+TXN-10726,2026-05-06 22:13:00,Subscription,Gym Membership,29.01
+TXN-10727,2026-05-08 00:54:00,Travel,Airline,698.1
+TXN-10728,2026-05-08 04:40:00,Dining,Sushi Bar,58.26
+TXN-10729,2026-05-08 08:25:00,Transportation,Ride Share,41.98
+TXN-10730,2026-05-08 10:03:00,Transportation,Gas Station,69.2
+TXN-10731,2026-05-08 13:55:00,Groceries,Safeway,33.85
+TXN-10732,2026-05-08 16:30:00,Dining,Local Cafe,25.11
+TXN-10733,2026-05-09 22:52:00,Entertainment,Concert Venue,101.94
+TXN-10734,2026-05-10 13:06:00,Groceries,Target Grocery,77.37
+TXN-10735,2026-05-10 16:47:00,Utilities,Internet Provider,216.8
+TXN-10736,2026-05-11 04:34:00,Entertainment,Concert Venue,63.96
+TXN-10737,2026-05-11 22:26:00,Utilities,Water Utility,184.63
+TXN-10738,2026-05-11 22:47:00,Groceries,Whole Foods,81.38
+TXN-10739,2026-05-12 00:00:00,Utilities,Electric & Gas Co,122.24
+TXN-10740,2026-05-12 12:45:00,Groceries,Costco,78.18
+TXN-10741,2026-05-12 16:34:00,Utilities,Electric & Gas Co,172.24
+TXN-10742,2026-05-13 00:40:00,Groceries,Whole Foods,105.34
+TXN-10743,2026-05-14 00:54:00,Subscription,Software License,47.74
+TXN-10744,2026-05-14 03:16:00,Utilities,Electric & Gas Co,92.65
+TXN-10745,2026-05-14 05:49:00,Retail,IKEA,48.16
+TXN-10746,2026-05-14 11:41:00,Subscription,Software License,25.72
+TXN-10747,2026-05-14 13:35:00,Utilities,Phone Carrier,154.84
+TXN-10748,2026-05-14 23:59:00,Subscription,Cloud Storage,44.42
+TXN-10749,2026-05-15 04:46:00,Groceries,Safeway,72.12
+TXN-10750,2026-05-15 05:12:00,Utilities,Water Utility,161.14
+TXN-10751,2026-05-15 05:38:00,Groceries,Target Grocery,72.78
+TXN-10752,2026-05-15 09:33:00,Transportation,Parking Garage,53.21
+TXN-10753,2026-05-15 18:19:00,Groceries,Trader Joe's,160.99
+TXN-10754,2026-05-15 19:11:00,Dining,Pizzeria,23.5
+TXN-10755,2026-05-15 19:42:00,Subscription,Software License,26.16
+TXN-10756,2026-05-15 21:33:00,Dining,Starbucks,74.55
+TXN-10757,2026-05-16 01:14:00,Groceries,Trader Joe's,158.31
+TXN-10758,2026-05-16 08:37:00,Utilities,Internet Provider,145.99
+TXN-10759,2026-05-16 21:16:00,Subscription,Software License,30.66
+TXN-10760,2026-05-16 23:42:00,Retail,Clothing Outlet,99.69
+TXN-10761,2026-05-17 00:52:00,Dining,Sushi Bar,42.65
+TXN-10762,2026-05-17 04:00:00,Utilities,Internet Provider,194.19
+TXN-10763,2026-05-17 20:22:00,Dining,Chipotle,53.91
+TXN-10764,2026-05-17 21:04:00,Subscription,Software License,21.59
+TXN-10765,2026-05-18 07:49:00,Utilities,Water Utility,84.25
+TXN-10766,2026-05-19 00:52:00,Utilities,Phone Carrier,95.09
+TXN-10767,2026-05-19 01:40:00,Groceries,Trader Joe's,43.01
+TXN-10768,2026-05-19 03:28:00,Groceries,Trader Joe's,30.78
+TXN-10769,2026-05-19 05:16:00,Groceries,Whole Foods,84.16
+TXN-10770,2026-05-19 08:27:00,Groceries,Target Grocery,33.69
+TXN-10771,2026-05-19 12:14:00,Dining,Local Cafe,19.52
+TXN-10772,2026-05-19 19:01:00,Subscription,Software License,31.88
+TXN-10773,2026-05-20 16:11:00,Groceries,Target Grocery,42.16
+TXN-10774,2026-05-20 20:14:00,Transportation,Gas Station,14.47
+TXN-10775,2026-05-21 02:18:00,Groceries,Safeway,67.37
+TXN-10776,2026-05-21 02:38:00,Retail,IKEA,81.69
+TXN-10777,2026-05-21 04:23:00,Subscription,Cloud Storage,30.6
+TXN-10778,2026-05-21 11:25:00,Dining,Sushi Bar,14.86
+TXN-10779,2026-05-21 19:28:00,Groceries,Target Grocery,139.04
+TXN-10780,2026-05-23 21:27:00,Subscription,Software License,46.24
+TXN-10781,2026-05-24 14:56:00,Dining,Chipotle,57.81
+TXN-10782,2026-05-24 18:41:00,Transportation,Public Transit Pass,47.3
+TXN-10783,2026-05-24 23:27:00,Utilities,Phone Carrier,196.31
+TXN-10784,2026-05-25 00:05:00,Transportation,Ride Share,58.64
+TXN-10785,2026-05-25 06:08:00,Groceries,Whole Foods,16.74
+TXN-10786,2026-05-25 09:24:00,Retail,Best Buy,130.35
+TXN-10787,2026-05-25 17:39:00,Subscription,Streaming Service,44.03
+TXN-10788,2026-05-25 20:06:00,Retail,Best Buy,116.84
+TXN-10789,2026-05-26 03:44:00,Groceries,Target Grocery,20.81
+TXN-10790,2026-05-26 07:17:00,Subscription,Software License,39.84
+TXN-10791,2026-05-26 10:46:00,Dining,Chipotle,61.74
+TXN-10792,2026-05-26 19:02:00,Retail,Best Buy,64.97
+TXN-10793,2026-05-27 16:10:00,Dining,Local Cafe,44.0
+TXN-10794,2026-05-28 10:50:00,Transportation,Ride Share,23.44
+TXN-10795,2026-05-28 12:45:00,Groceries,Safeway,133.67
+TXN-10796,2026-05-28 15:32:00,Retail,Amazon,96.03
+TXN-10797,2026-05-28 22:41:00,Transportation,Parking Garage,32.14
+TXN-10798,2026-05-29 09:34:00,Retail,IKEA,256.59
+TXN-10799,2026-05-29 10:38:00,Utilities,Phone Carrier,130.97
+TXN-10800,2026-05-30 00:01:00,Dining,Sushi Bar,52.87
+TXN-10801,2026-05-30 04:46:00,Travel,Hotel Booking,431.66
+TXN-10802,2026-05-30 07:20:00,Groceries,Target Grocery,64.17
+TXN-10803,2026-05-30 12:04:00,Utilities,Electric & Gas Co,156.33
+TXN-10804,2026-05-30 12:20:00,Subscription,Gym Membership,16.18
+TXN-10805,2026-05-31 07:36:00,Retail,Clothing Outlet,124.44
+TXN-10806,2026-05-31 12:45:00,Groceries,Safeway,49.49
+TXN-10807,2026-05-31 18:57:00,Subscription,Gym Membership,37.82
+TXN-10808,2026-05-31 21:27:00,Retail,IKEA,284.38
+TXN-10809,2026-05-31 22:05:00,Groceries,Trader Joe's,179.26
+TXN-10810,2026-06-02 04:32:00,Transportation,Gas Station,41.52
+TXN-10811,2026-06-02 12:30:00,Groceries,Trader Joe's,56.67
+TXN-10812,2026-06-02 16:41:00,Dining,Chipotle,37.67
+TXN-10813,2026-06-03 05:14:00,Groceries,Costco,154.8
+TXN-10814,2026-06-03 11:02:00,Groceries,Costco,48.99
+TXN-10815,2026-06-03 18:31:00,Transportation,Ride Share,76.65
+TXN-10816,2026-06-03 21:04:00,Dining,Local Cafe,30.91
+TXN-10817,2026-06-03 21:42:00,Dining,Sushi Bar,74.05
+TXN-10818,2026-06-04 01:48:00,Groceries,Safeway,153.37
+TXN-10819,2026-06-04 03:54:00,Utilities,Internet Provider,187.46
+TXN-10820,2026-06-05 02:07:00,Utilities,Internet Provider,104.04
+TXN-10821,2026-06-05 14:38:00,Dining,Local Cafe,8.59
+TXN-10822,2026-06-06 14:36:00,Dining,Chipotle,33.6
+TXN-10823,2026-06-07 06:13:00,Transportation,Parking Garage,31.13
+TXN-10824,2026-06-07 09:53:00,Dining,Chipotle,10.51
+TXN-10825,2026-06-07 20:33:00,Dining,Local Cafe,41.86
+TXN-10826,2026-06-08 06:10:00,Dining,Chipotle,35.0
+TXN-10827,2026-06-08 14:10:00,Retail,Bookstore,197.68
+TXN-10828,2026-06-08 22:12:00,Dining,Local Cafe,49.62
+TXN-10829,2026-06-09 00:03:00,Utilities,Phone Carrier,70.53
+TXN-10830,2026-06-09 03:18:00,Dining,Chipotle,73.46
+TXN-10831,2026-06-09 12:14:00,Travel,Airline,280.85
+TXN-10832,2026-06-10 05:06:00,Dining,Chipotle,37.83
+TXN-10833,2026-06-10 18:49:00,Retail,Amazon,156.67
+TXN-10834,2026-06-11 01:34:00,Dining,Chipotle,62.48
+TXN-10835,2026-06-11 09:39:00,Groceries,Target Grocery,31.37
+TXN-10836,2026-06-11 11:04:00,Retail,Bookstore,140.02
+TXN-10837,2026-06-11 23:33:00,Dining,Chipotle,50.11
+TXN-10838,2026-06-12 05:23:00,Transportation,Gas Station,25.06
+TXN-10839,2026-06-12 07:53:00,Transportation,Public Transit Pass,53.92
+TXN-10840,2026-06-12 14:22:00,Transportation,Parking Garage,74.66
+TXN-10841,2026-06-12 20:04:00,Groceries,Target Grocery,179.59
+TXN-10842,2026-06-13 04:46:00,Retail,Best Buy,29.09
+TXN-10843,2026-06-13 08:33:00,Dining,Chipotle,23.78
+TXN-10844,2026-06-13 09:24:00,Transportation,Public Transit Pass,31.72
+TXN-10845,2026-06-14 05:14:00,Subscription,Streaming Service,25.96
+TXN-10846,2026-06-14 07:22:00,Retail,IKEA,87.83
+TXN-10847,2026-06-14 13:36:00,Dining,Pizzeria,21.63
+TXN-10848,2026-06-15 08:00:00,Utilities,Internet Provider,212.27
+TXN-10849,2026-06-15 20:14:00,Groceries,Target Grocery,166.56
+TXN-10850,2026-06-15 23:43:00,Retail,Clothing Outlet,33.16
+TXN-10851,2026-06-16 00:05:00,Dining,Sushi Bar,30.7
+TXN-10852,2026-06-16 12:42:00,Utilities,Phone Carrier,118.88
+TXN-10853,2026-06-16 15:22:00,Retail,Clothing Outlet,86.92
+TXN-10854,2026-06-16 17:42:00,Utilities,Internet Provider,156.91
+TXN-10855,2026-06-16 20:22:00,Groceries,Costco,120.66
+TXN-10856,2026-06-16 23:05:00,Utilities,Water Utility,194.59
+TXN-10857,2026-06-17 05:45:00,Dining,Pizzeria,57.64
+TXN-10858,2026-06-17 05:57:00,Dining,Chipotle,44.35
+TXN-10859,2026-06-17 06:39:00,Groceries,Safeway,122.84
+TXN-10860,2026-06-17 07:19:00,Groceries,Safeway,60.21
+TXN-10861,2026-06-17 12:19:00,Dining,Sushi Bar,47.73
+TXN-10862,2026-06-17 19:47:00,Retail,Bookstore,156.98
+TXN-10863,2026-06-18 04:29:00,Groceries,Costco,37.0
+TXN-10864,2026-06-18 22:09:00,Dining,Sushi Bar,24.25
+TXN-10865,2026-06-19 02:21:00,Transportation,Ride Share,30.42
+TXN-10866,2026-06-19 06:41:00,Groceries,Costco,167.51
+TXN-10867,2026-06-19 07:18:00,Utilities,Phone Carrier,89.17
+TXN-10868,2026-06-19 12:31:00,Retail,Amazon,100.99
+TXN-10869,2026-06-19 21:24:00,Transportation,Parking Garage,35.85
+TXN-10870,2026-06-20 15:15:00,Retail,Amazon,205.85
+TXN-10871,2026-06-20 15:25:00,Retail,Clothing Outlet,53.11
+TXN-10872,2026-06-20 20:17:00,Retail,Bookstore,287.1
+TXN-10873,2026-06-20 21:00:00,Dining,Sushi Bar,65.99
+TXN-10874,2026-06-21 14:34:00,Retail,IKEA,181.62
+TXN-10875,2026-06-21 22:38:00,Groceries,Whole Foods,126.22
+TXN-10876,2026-06-22 02:20:00,Transportation,Public Transit Pass,11.17
+TXN-10877,2026-06-22 20:01:00,Dining,Pizzeria,30.71
+TXN-10878,2026-06-22 23:36:00,Utilities,Internet Provider,185.26
+TXN-10879,2026-06-23 01:10:00,Dining,Starbucks,13.19
+TXN-10880,2026-06-23 06:19:00,Retail,Clothing Outlet,99.05
+TXN-10881,2026-06-23 11:29:00,Groceries,Target Grocery,111.57
+TXN-10882,2026-06-23 15:06:00,Transportation,Gas Station,27.95
+TXN-10883,2026-06-23 20:35:00,Retail,Best Buy,281.51
+TXN-10884,2026-06-24 13:49:00,Groceries,Target Grocery,36.62
+TXN-10885,2026-06-24 21:50:00,Retail,Amazon,243.27
+TXN-10886,2026-06-25 01:06:00,Retail,Clothing Outlet,162.23
+TXN-10887,2026-06-25 01:32:00,Subscription,Software License,40.0
+TXN-10888,2026-06-25 08:46:00,Dining,Pizzeria,28.82
+TXN-10889,2026-06-25 09:07:00,Dining,Sushi Bar,42.47
+TXN-10890,2026-06-26 10:44:00,Groceries,Trader Joe's,156.38
+TXN-10891,2026-06-26 20:31:00,Dining,Local Cafe,39.28
+TXN-10892,2026-06-27 08:39:00,Transportation,Ride Share,35.18
+TXN-10893,2026-06-27 14:28:00,Groceries,Target Grocery,103.47
+TXN-10894,2026-06-27 15:14:00,Retail,IKEA,220.86
+TXN-10895,2026-06-28 03:20:00,Dining,Pizzeria,37.72
+TXN-10896,2026-06-28 10:07:00,Utilities,Electric & Gas Co,209.61
+TXN-10897,2026-06-28 21:42:00,Retail,Best Buy,102.58
+TXN-10898,2026-06-29 06:04:00,Transportation,Parking Garage,43.28
+TXN-10899,2026-06-29 07:37:00,Dining,Starbucks,58.71
+TXN-10900,2026-06-29 11:37:00,Dining,Starbucks,54.17
+TXN-10901,2026-06-30 04:38:00,Dining,Local Cafe,65.86
+TXN-10902,2026-06-30 04:43:00,Groceries,Costco,179.47
+TXN-10903,2026-06-30 06:21:00,Dining,Starbucks,36.6
+TXN-10904,2026-06-30 07:32:00,Dining,Local Cafe,15.45
+TXN-10905,2026-06-30 08:10:00,Dining,Sushi Bar,10.04
+TXN-10906,2026-06-30 11:19:00,Retail,Best Buy,223.53
+TXN-10907,2026-06-30 19:23:00,Dining,Pizzeria,66.56
+TXN-10908,2026-06-30 22:06:00,Dining,Starbucks,22.79
+TXN-10909,2026-07-01 05:34:00,Dining,Sushi Bar,18.62
+TXN-10910,2026-07-01 14:43:00,Retail,Best Buy,37.42
+TXN-10911,2026-07-01 17:45:00,Transportation,Gas Station,67.59
+TXN-10912,2026-07-02 04:43:00,Utilities,Electric & Gas Co,102.93
+TXN-10913,2026-07-02 08:27:00,Retail,Clothing Outlet,132.48
+TXN-10914,2026-07-02 14:51:00,Dining,Local Cafe,41.68
+TXN-10915,2026-07-02 19:32:00,Utilities,Internet Provider,192.71
+TXN-10916,2026-07-03 07:42:00,Dining,Chipotle,51.61
+TXN-10917,2026-07-03 18:03:00,Dining,Pizzeria,49.21
+TXN-10918,2026-07-03 20:49:00,Retail,Clothing Outlet,69.19
+TXN-10919,2026-07-04 00:11:00,Transportation,Parking Garage,45.92
+TXN-10920,2026-07-04 15:19:00,Groceries,Whole Foods,133.04
+TXN-10921,2026-07-05 10:36:00,Subscription,Streaming Service,48.92
+TXN-10922,2026-07-05 22:02:00,Utilities,Phone Carrier,84.24
+TXN-10923,2026-07-06 15:21:00,Groceries,Trader Joe's,16.57
+TXN-10924,2026-07-06 17:42:00,Groceries,Target Grocery,27.42
+TXN-10925,2026-07-06 18:44:00,Dining,Sushi Bar,33.18
+TXN-10926,2026-07-07 13:18:00,Groceries,Whole Foods,150.39
+TXN-10927,2026-07-08 04:46:00,Groceries,Whole Foods,16.18
+TXN-10928,2026-07-08 09:30:00,Dining,Pizzeria,38.6
+TXN-10929,2026-07-08 21:32:00,Dining,Chipotle,30.06
+TXN-10930,2026-07-08 23:11:00,Retail,Best Buy,34.69
+TXN-10931,2026-07-09 01:58:00,Utilities,Phone Carrier,126.54
+TXN-10932,2026-07-09 03:33:00,Travel,Hotel Booking,328.32
+TXN-10933,2026-07-09 07:47:00,Dining,Starbucks,31.58
+TXN-10934,2026-07-09 20:10:00,Retail,Amazon,217.57
+TXN-10935,2026-07-09 20:21:00,Transportation,Public Transit Pass,46.51
+TXN-10936,2026-07-10 01:04:00,Subscription,Cloud Storage,14.98
+TXN-10937,2026-07-10 01:20:00,Dining,Pizzeria,72.41
+TXN-10938,2026-07-10 16:12:00,Retail,Amazon,198.06
+TXN-10939,2026-07-10 17:30:00,Groceries,Trader Joe's,141.37
+TXN-10940,2026-07-10 19:12:00,Dining,Chipotle,13.31
+TXN-10941,2026-07-11 04:12:00,Utilities,Electric & Gas Co,58.0
+TXN-10942,2026-07-11 10:36:00,Utilities,Phone Carrier,53.31
+TXN-10943,2026-07-11 10:54:00,Groceries,Costco,46.15
+TXN-10944,2026-07-11 11:43:00,Transportation,Parking Garage,39.01
+TXN-10945,2026-07-11 13:30:00,Subscription,Software License,47.42
+TXN-10946,2026-07-12 00:54:00,Dining,Local Cafe,38.62
+TXN-10947,2026-07-12 03:09:00,Transportation,Public Transit Pass,30.32
+TXN-10948,2026-07-12 10:51:00,Dining,Sushi Bar,45.65
+TXN-10949,2026-07-12 12:11:00,Travel,Car Rental,228.35
+TXN-10950,2026-07-12 12:17:00,Utilities,Electric & Gas Co,153.62
+TXN-10951,2026-07-13 00:27:00,Groceries,Whole Foods,108.79
+TXN-10952,2026-07-13 08:32:00,Retail,Bookstore,241.76
+TXN-10953,2026-07-13 15:20:00,Subscription,Gym Membership,49.46
+TXN-10954,2026-07-13 15:39:00,Retail,Bookstore,90.24
+TXN-10955,2026-07-13 16:48:00,Entertainment,Movie Theater,68.51
+TXN-10956,2026-07-13 19:07:00,Retail,Bookstore,274.48
+TXN-10957,2026-07-14 14:56:00,Subscription,Streaming Service,41.4
+TXN-10958,2026-07-14 15:13:00,Transportation,Public Transit Pass,44.12
+TXN-10959,2026-07-14 18:04:00,Subscription,Gym Membership,47.8
+TXN-10960,2026-07-15 01:10:00,Dining,Starbucks,11.83
+TXN-10961,2026-07-15 01:27:00,Transportation,Ride Share,75.17
+TXN-10962,2026-07-15 01:46:00,Groceries,Whole Foods,23.33
+TXN-10963,2026-07-15 06:44:00,Retail,Best Buy,173.25
+TXN-10964,2026-07-15 14:21:00,Transportation,Gas Station,72.33
+TXN-10965,2026-07-15 22:21:00,Retail,Best Buy,93.56
+TXN-10966,2026-07-15 23:45:00,Subscription,Streaming Service,28.88
+TXN-10967,2026-07-16 00:18:00,Retail,Clothing Outlet,110.81
+TXN-10968,2026-07-16 03:21:00,Dining,Sushi Bar,71.79
+TXN-10969,2026-07-16 04:22:00,Transportation,Gas Station,67.66
+TXN-10970,2026-07-16 04:41:00,Groceries,Target Grocery,131.99
+TXN-10971,2026-07-16 05:40:00,Groceries,Target Grocery,111.96
+TXN-10972,2026-07-16 16:23:00,Dining,Pizzeria,62.98
+TXN-10973,2026-07-16 19:15:00,Utilities,Electric & Gas Co,116.69
+TXN-10974,2026-07-16 19:29:00,Utilities,Water Utility,126.08
+TXN-10975,2026-07-17 07:58:00,Retail,Best Buy,224.4
+TXN-10976,2026-07-17 13:03:00,Dining,Starbucks,31.97
+TXN-10977,2026-07-17 21:47:00,Dining,Sushi Bar,12.28
+TXN-10978,2026-07-18 07:15:00,Groceries,Safeway,27.27
+TXN-10979,2026-07-18 15:44:00,Dining,Chipotle,15.73
+TXN-10980,2026-07-18 19:24:00,Subscription,Gym Membership,44.78
+TXN-10981,2026-07-18 23:13:00,Groceries,Whole Foods,92.92
+TXN-10982,2026-07-18 23:41:00,Dining,Chipotle,55.76
+TXN-10983,2026-07-19 00:07:00,Groceries,Whole Foods,79.83
+TXN-10984,2026-07-19 10:26:00,Groceries,Costco,57.69
+TXN-10985,2026-07-19 10:50:00,Dining,Sushi Bar,31.26
+TXN-10986,2026-07-20 04:37:00,Groceries,Trader Joe's,146.04
+TXN-10987,2026-07-20 14:34:00,Retail,Bookstore,195.06
+TXN-10988,2026-07-20 19:25:00,Retail,Best Buy,282.54
+TXN-10989,2026-07-21 01:59:00,Utilities,Phone Carrier,165.55
+TXN-10990,2026-07-21 09:34:00,Travel,Car Rental,549.13
+TXN-10991,2026-07-21 19:22:00,Dining,Starbucks,48.88
+TXN-10992,2026-07-22 17:34:00,Utilities,Phone Carrier,210.2
+TXN-10993,2026-07-23 07:38:00,Travel,Car Rental,701.74
+TXN-10994,2026-07-23 10:35:00,Groceries,Whole Foods,18.97
+TXN-10995,2026-07-24 03:36:00,Transportation,Ride Share,47.39
+TXN-10996,2026-07-24 21:10:00,Groceries,Safeway,128.58
+TXN-10997,2026-07-25 23:35:00,Dining,Starbucks,58.16
+TXN-10998,2026-07-26 21:47:00,Groceries,Whole Foods,50.17
+TXN-10999,2026-07-27 03:14:00,Retail,IKEA,262.81
+TXN-11000,2026-07-28 03:35:00,Subscription,Software License,48.22
+TXN-11001,2026-07-28 18:57:00,Retail,Best Buy,86.28
+TXN-11002,2026-07-28 22:46:00,Dining,Sushi Bar,67.14
+TXN-11003,2026-07-29 10:11:00,Dining,Local Cafe,14.5
+TXN-11004,2026-07-29 16:07:00,Groceries,Safeway,24.19
+TXN-11005,2026-07-29 19:13:00,Dining,Sushi Bar,16.66
+TXN-11006,2026-07-29 22:15:00,Transportation,Gas Station,14.04
+TXN-11007,2026-07-30 04:19:00,Dining,Starbucks,64.62
+TXN-11008,2026-07-30 05:14:00,Retail,Best Buy,36.53
+TXN-11009,2026-07-30 10:09:00,Retail,Bookstore,96.07
+TXN-11010,2026-07-30 11:15:00,Dining,Starbucks,14.95
+TXN-11011,2026-07-31 04:14:00,Subscription,Software License,21.81
+TXN-11012,2026-07-31 15:02:00,Groceries,Costco,29.94
+TXN-11013,2026-07-31 19:36:00,Groceries,Target Grocery,125.22
+TXN-11014,2026-08-01 07:10:00,Groceries,Trader Joe's,37.0
+TXN-11015,2026-08-01 16:09:00,Utilities,Phone Carrier,194.81
+TXN-11016,2026-08-01 18:50:00,Dining,Chipotle,62.75
+TXN-11017,2026-08-01 20:30:00,Utilities,Water Utility,52.32
+TXN-11018,2026-08-02 11:00:00,Utilities,Water Utility,202.27
+TXN-11019,2026-08-03 06:20:00,Dining,Sushi Bar,9.94
+TXN-11020,2026-08-03 09:43:00,Subscription,Software License,19.58
+TXN-11021,2026-08-03 20:35:00,Retail,Best Buy,29.07
+TXN-11022,2026-08-04 05:32:00,Groceries,Costco,70.41
+TXN-11023,2026-08-04 13:10:00,Groceries,Costco,99.79
+TXN-11024,2026-08-04 19:35:00,Retail,Clothing Outlet,243.06
+TXN-11025,2026-08-04 21:39:00,Dining,Local Cafe,30.64
+TXN-11026,2026-08-04 22:52:00,Subscription,Streaming Service,38.21
+TXN-11027,2026-08-05 02:40:00,Dining,Local Cafe,20.56
+TXN-11028,2026-08-05 07:39:00,Dining,Pizzeria,58.29
+TXN-11029,2026-08-05 08:09:00,Groceries,Trader Joe's,53.94
+TXN-11030,2026-08-06 06:24:00,Dining,Sushi Bar,17.62
+TXN-11031,2026-08-06 07:38:00,Subscription,Cloud Storage,17.41
+TXN-11032,2026-08-06 10:00:00,Dining,Sushi Bar,20.2
+TXN-11033,2026-08-07 05:27:00,Retail,Best Buy,163.6
+TXN-11034,2026-08-07 06:27:00,Transportation,Parking Garage,69.14
+TXN-11035,2026-08-07 07:51:00,Utilities,Electric & Gas Co,63.53
+TXN-11036,2026-08-07 15:41:00,Retail,IKEA,217.95
+TXN-11037,2026-08-08 00:37:00,Dining,Starbucks,51.84
+TXN-11038,2026-08-08 00:57:00,Dining,Sushi Bar,66.46
+TXN-11039,2026-08-08 18:06:00,Retail,Amazon,88.36
+TXN-11040,2026-08-08 18:36:00,Dining,Pizzeria,38.16
+TXN-11041,2026-08-09 08:48:00,Utilities,Internet Provider,207.39
+TXN-11042,2026-08-09 20:25:00,Groceries,Safeway,123.9
+TXN-11043,2026-08-09 20:52:00,Utilities,Phone Carrier,116.09
+TXN-11044,2026-08-09 21:44:00,Transportation,Public Transit Pass,19.2
+TXN-11045,2026-08-09 22:02:00,Transportation,Public Transit Pass,28.37
+TXN-11046,2026-08-10 13:35:00,Retail,Amazon,182.74
+TXN-11047,2026-08-10 20:49:00,Retail,IKEA,221.09
+TXN-11048,2026-08-10 21:11:00,Utilities,Electric & Gas Co,71.15
+TXN-11049,2026-08-10 21:25:00,Utilities,Water Utility,151.93
+TXN-11050,2026-08-10 21:43:00,Groceries,Costco,105.81
+TXN-11051,2026-08-10 23:38:00,Dining,Starbucks,42.44
+TXN-11052,2026-08-11 12:05:00,Dining,Local Cafe,54.24
+TXN-11053,2026-08-11 13:59:00,Entertainment,Museum Ticket,102.93
+TXN-11054,2026-08-12 00:48:00,Dining,Starbucks,29.64
+TXN-11055,2026-08-12 01:59:00,Utilities,Water Utility,201.13
+TXN-11056,2026-08-12 02:20:00,Utilities,Phone Carrier,77.31
+TXN-11057,2026-08-12 05:31:00,Subscription,Streaming Service,16.91
+TXN-11058,2026-08-13 02:58:00,Retail,Best Buy,94.7
+TXN-11059,2026-08-13 03:39:00,Groceries,Target Grocery,34.72
+TXN-11060,2026-08-13 08:38:00,Utilities,Electric & Gas Co,89.15
+TXN-11061,2026-08-13 15:18:00,Retail,Clothing Outlet,49.8
+TXN-11062,2026-08-14 11:49:00,Dining,Local Cafe,63.06
+TXN-11063,2026-08-14 20:43:00,Dining,Starbucks,17.31
+TXN-11064,2026-08-15 13:18:00,Subscription,Cloud Storage,39.88
+TXN-11065,2026-08-15 13:23:00,Retail,IKEA,33.42
+TXN-11066,2026-08-15 14:29:00,Groceries,Whole Foods,171.51
+TXN-11067,2026-08-15 18:27:00,Retail,Clothing Outlet,219.12
+TXN-11068,2026-08-15 21:53:00,Retail,Bookstore,21.9
+TXN-11069,2026-08-16 02:36:00,Dining,Chipotle,59.18
+TXN-11070,2026-08-16 07:10:00,Travel,Hotel Booking,509.86
+TXN-11071,2026-08-16 09:33:00,Retail,Amazon,238.22
+TXN-11072,2026-08-16 21:59:00,Retail,IKEA,166.3
+TXN-11073,2026-08-17 04:08:00,Retail,Amazon,199.49
+TXN-11074,2026-08-17 07:45:00,Groceries,Safeway,144.74
+TXN-11075,2026-08-17 20:19:00,Groceries,Trader Joe's,81.84
+TXN-11076,2026-08-18 09:04:00,Dining,Local Cafe,8.18
+TXN-11077,2026-08-19 09:53:00,Dining,Chipotle,64.95
+TXN-11078,2026-08-19 23:39:00,Dining,Chipotle,33.52
+TXN-11079,2026-08-20 01:37:00,Transportation,Gas Station,44.72
+TXN-11080,2026-08-20 16:11:00,Retail,Clothing Outlet,22.17
+TXN-11081,2026-08-20 17:36:00,Subscription,Cloud Storage,29.67
+TXN-11082,2026-08-21 02:32:00,Transportation,Ride Share,79.05
+TXN-11083,2026-08-21 03:33:00,Retail,Best Buy,97.91
+TXN-11084,2026-08-21 12:03:00,Dining,Sushi Bar,34.49
+TXN-11085,2026-08-21 19:33:00,Groceries,Trader Joe's,128.39
+TXN-11086,2026-08-22 00:04:00,Utilities,Electric & Gas Co,188.51
+TXN-11087,2026-08-22 01:22:00,Retail,Bookstore,136.87
+TXN-11088,2026-08-22 13:49:00,Dining,Pizzeria,28.75
+TXN-11089,2026-08-22 17:20:00,Subscription,Gym Membership,47.5
+TXN-11090,2026-08-22 21:03:00,Groceries,Safeway,126.73
+TXN-11091,2026-08-23 00:31:00,Retail,Bookstore,53.33
+TXN-11092,2026-08-23 21:54:00,Retail,Amazon,39.3
+TXN-11093,2026-08-24 09:48:00,Retail,Bookstore,155.39
+TXN-11094,2026-08-24 13:03:00,Entertainment,Video Game Store,38.11
+TXN-11095,2026-08-24 17:58:00,Retail,IKEA,91.12
+TXN-11096,2026-08-25 01:14:00,Transportation,Parking Garage,71.44
+TXN-11097,2026-08-25 03:13:00,Transportation,Gas Station,16.27
+TXN-11098,2026-08-25 06:17:00,Retail,IKEA,220.3
+TXN-11099,2026-08-26 10:33:00,Subscription,Streaming Service,20.84
+TXN-11100,2026-08-26 10:43:00,Groceries,Costco,140.45
+TXN-11101,2026-08-26 20:04:00,Dining,Starbucks,56.4
+TXN-11102,2026-08-27 00:23:00,Utilities,Phone Carrier,51.26
+TXN-11103,2026-08-27 02:51:00,Dining,Pizzeria,42.11
+TXN-11104,2026-08-27 10:23:00,Dining,Starbucks,17.33
+TXN-11105,2026-08-28 21:11:00,Entertainment,Museum Ticket,105.95
+TXN-11106,2026-08-29 07:56:00,Transportation,Ride Share,71.01
+TXN-11107,2026-08-30 01:08:00,Retail,Bookstore,137.14
+TXN-11108,2026-08-30 08:03:00,Dining,Starbucks,37.77
+TXN-11109,2026-08-30 19:17:00,Groceries,Whole Foods,65.04
+TXN-11110,2026-08-30 20:55:00,Groceries,Whole Foods,133.24
+TXN-11111,2026-08-31 05:53:00,Dining,Local Cafe,32.03
+TXN-11112,2026-08-31 18:33:00,Groceries,Safeway,59.19
+TXN-11113,2026-08-31 20:06:00,Groceries,Target Grocery,86.32
+TXN-11114,2026-08-31 22:41:00,Transportation,Parking Garage,16.4
+TXN-11115,2026-09-01 02:44:00,Retail,Clothing Outlet,229.05
+TXN-11116,2026-09-01 10:53:00,Dining,Starbucks,8.84
+TXN-11117,2026-09-01 14:52:00,Groceries,Whole Foods,121.34
+TXN-11118,2026-09-01 15:53:00,Utilities,Internet Provider,81.09
+TXN-11119,2026-09-01 17:41:00,Groceries,Target Grocery,53.35
+TXN-11120,2026-09-02 12:42:00,Transportation,Gas Station,54.49
+TXN-11121,2026-09-03 01:53:00,Dining,Local Cafe,74.53
+TXN-11122,2026-09-03 10:56:00,Dining,Chipotle,60.11
+TXN-11123,2026-09-04 07:47:00,Dining,Local Cafe,23.13
+TXN-11124,2026-09-05 10:57:00,Groceries,Target Grocery,44.04
+TXN-11125,2026-09-05 14:59:00,Subscription,Cloud Storage,44.64
+TXN-11126,2026-09-05 23:48:00,Retail,Best Buy,144.37
+TXN-11127,2026-09-06 06:35:00,Subscription,Cloud Storage,15.47
+TXN-11128,2026-09-06 21:58:00,Groceries,Target Grocery,157.26
+TXN-11129,2026-09-07 06:34:00,Utilities,Phone Carrier,188.74
+TXN-11130,2026-09-07 11:01:00,Utilities,Water Utility,217.26
+TXN-11131,2026-09-07 11:23:00,Transportation,Parking Garage,73.68
+TXN-11132,2026-09-08 02:03:00,Dining,Chipotle,65.07
+TXN-11133,2026-09-08 23:44:00,Dining,Chipotle,11.52
+TXN-11134,2026-09-09 00:43:00,Subscription,Streaming Service,14.17
+TXN-11135,2026-09-09 03:11:00,Subscription,Software License,32.75
+TXN-11136,2026-09-09 13:25:00,Dining,Pizzeria,43.61
+TXN-11137,2026-09-10 01:34:00,Dining,Local Cafe,38.68
+TXN-11138,2026-09-10 10:06:00,Dining,Chipotle,34.58
+TXN-11139,2026-09-10 16:26:00,Transportation,Ride Share,40.18
+TXN-11140,2026-09-10 17:18:00,Dining,Chipotle,46.14
+TXN-11141,2026-09-10 20:11:00,Transportation,Gas Station,10.15
+TXN-11142,2026-09-10 20:41:00,Utilities,Water Utility,94.32
+TXN-11143,2026-09-11 02:18:00,Transportation,Ride Share,46.28
+TXN-11144,2026-09-11 13:35:00,Retail,Bookstore,222.22
+TXN-11145,2026-09-13 06:32:00,Dining,Starbucks,19.67
+TXN-11146,2026-09-13 16:24:00,Transportation,Gas Station,48.28
+TXN-11147,2026-09-13 18:39:00,Groceries,Safeway,132.89
+TXN-11148,2026-09-14 02:19:00,Transportation,Public Transit Pass,41.12
+TXN-11149,2026-09-14 07:00:00,Subscription,Cloud Storage,11.07
+TXN-11150,2026-09-14 10:01:00,Groceries,Costco,89.13
+TXN-11151,2026-09-14 16:45:00,Subscription,Cloud Storage,21.85
+TXN-11152,2026-09-14 17:45:00,Entertainment,Movie Theater,112.61
+TXN-11153,2026-09-14 21:52:00,Groceries,Safeway,35.56
+TXN-11154,2026-09-15 10:47:00,Utilities,Electric & Gas Co,160.92
+TXN-11155,2026-09-15 14:34:00,Retail,IKEA,34.76
+TXN-11156,2026-09-16 11:09:00,Retail,Clothing Outlet,144.93
+TXN-11157,2026-09-16 15:31:00,Dining,Sushi Bar,45.12
+TXN-11158,2026-09-17 03:49:00,Groceries,Whole Foods,64.16
+TXN-11159,2026-09-17 07:09:00,Groceries,Trader Joe's,90.09
+TXN-11160,2026-09-17 23:40:00,Utilities,Water Utility,77.8
+TXN-11161,2026-09-18 03:02:00,Dining,Pizzeria,28.38
+TXN-11162,2026-09-18 06:11:00,Transportation,Parking Garage,53.48
+TXN-11163,2026-09-18 06:20:00,Groceries,Costco,64.8
+TXN-11164,2026-09-19 07:26:00,Subscription,Streaming Service,45.98
+TXN-11165,2026-09-19 23:44:00,Groceries,Whole Foods,118.69
+TXN-11166,2026-09-20 07:13:00,Groceries,Costco,87.38
+TXN-11167,2026-09-20 07:35:00,Dining,Chipotle,10.6
+TXN-11168,2026-09-21 05:59:00,Dining,Sushi Bar,41.47
+TXN-11169,2026-09-21 15:03:00,Subscription,Software License,40.58
+TXN-11170,2026-09-21 18:47:00,Transportation,Gas Station,28.59
+TXN-11171,2026-09-22 01:10:00,Subscription,Gym Membership,42.26
+TXN-11172,2026-09-22 19:05:00,Entertainment,Concert Venue,41.44
+TXN-11173,2026-09-24 08:14:00,Transportation,Ride Share,67.66
+TXN-11174,2026-09-24 08:49:00,Utilities,Internet Provider,64.5
+TXN-11175,2026-09-24 13:57:00,Retail,Best Buy,262.53
+TXN-11176,2026-09-25 00:10:00,Subscription,Cloud Storage,29.96
+TXN-11177,2026-09-25 13:06:00,Groceries,Target Grocery,63.93
+TXN-11178,2026-09-25 23:43:00,Retail,Clothing Outlet,94.23
+TXN-11179,2026-09-26 00:04:00,Groceries,Safeway,86.28
+TXN-11180,2026-09-26 01:49:00,Utilities,Electric & Gas Co,219.84
+TXN-11181,2026-09-26 04:13:00,Retail,Bookstore,81.69
+TXN-11182,2026-09-26 13:21:00,Groceries,Whole Foods,32.03
+TXN-11183,2026-09-26 18:25:00,Groceries,Safeway,111.53
+TXN-11184,2026-09-27 00:56:00,Transportation,Public Transit Pass,44.2
+TXN-11185,2026-09-27 13:10:00,Subscription,Gym Membership,30.96
+TXN-11186,2026-09-27 14:58:00,Groceries,Whole Foods,125.04
+TXN-11187,2026-09-27 21:20:00,Subscription,Cloud Storage,20.68
+TXN-11188,2026-09-28 20:03:00,Utilities,Phone Carrier,204.81
+TXN-11189,2026-09-28 21:40:00,Utilities,Electric & Gas Co,124.06
+TXN-11190,2026-09-29 04:02:00,Entertainment,Concert Venue,28.55
+TXN-11191,2026-09-29 09:29:00,Subscription,Streaming Service,39.68
+TXN-11192,2026-09-29 10:44:00,Dining,Chipotle,51.09
+TXN-11193,2026-09-29 11:08:00,Retail,Bookstore,108.41
+TXN-11194,2026-09-29 18:53:00,Transportation,Public Transit Pass,53.51
+TXN-11195,2026-09-29 19:23:00,Groceries,Safeway,51.28
+TXN-11196,2026-09-29 22:51:00,Groceries,Trader Joe's,88.4
+TXN-11197,2026-09-30 00:21:00,Groceries,Trader Joe's,163.4
+TXN-11198,2026-09-30 18:52:00,Subscription,Streaming Service,15.33
+TXN-11199,2026-09-30 23:51:00,Subscription,Software License,25.46
